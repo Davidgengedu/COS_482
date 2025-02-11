@@ -1,0 +1,998 @@
+,title,publication_info,cited_by
+0,A guide to machine learning for biologists,"JG Greener, SM Kandathil, L Moffat… - Nature reviews Molecular …, 2022 - nature.com",Cited by 1105
+1,[PDF][PDF] Open-environment machine learning,"ZH Zhou - National Science Review, 2022 - academic.oup.com",Cited by 123
+2,Machine learning and deep learning: A review of methods and applications,"K Sharifani, M Amini - World Information Technology and …, 2023 - papers.ssrn.com",Cited by 270
+3,[PDF][PDF] International conference on machine learning,"W Li, C Wang, G Cheng, Q Song - Transactions on machine learning …, 2023 - par.nsf.gov",Cited by 1565
+4,[BOOK][B] Probabilistic machine learning: an introduction,KP Murphy - 2022 - books.google.com,Cited by 1019
+5,Machine learning for microbiologists,"F Asnicar, AM Thomas, A Passerini… - Nature Reviews …, 2024 - nature.com",Cited by 50
+6,Agricultural databases evaluation with machine learning procedure,"M Amini, A Rahmani - … Journal of Engineering and Applied Science, 2023 - papers.ssrn.com",Cited by 149
+7,[BOOK][B] Machine learning: the basics,A Jung - 2022 - books.google.com,Cited by 134
+8,[BOOK][B] Probabilistic machine learning: Advanced topics,KP Murphy - 2023 - books.google.com,Cited by 344
+9,[HTML][HTML] A review of the application of machine learning in water quality evaluation,"M Zhu, J Wang, X Yang, Y Zhang, L Zhang… - Eco-Environment & …, 2022 - Elsevier",Cited by 290
+10,Human-in-the-loop machine learning: a state of the art,"E Mosqueira-Rey, E Hernández-Pereira… - Artificial Intelligence …, 2023 - Springer",Cited by 337
+11,"Machine learning operations (mlops): Overview, definition, and architecture","D Kreuzberger, N Kühl, S Hirschl - IEEE access, 2023 - ieeexplore.ieee.org",Cited by 399
+12,Scientific machine learning benchmarks,"J Thiyagalingam, M Shankar, G Fox, T Hey - Nature Reviews Physics, 2022 - nature.com",Cited by 101
+13,Challenges in deploying machine learning: a survey of case studies,"A Paleyes, RG Urma, ND Lawrence - ACM computing surveys, 2022 - dl.acm.org",Cited by 457
+14,"Combustion machine learning: Principles, progress and prospects","M Ihme, WT Chung, AA Mishra - Progress in Energy and Combustion …, 2022 - Elsevier",Cited by 163
+15,Machine learning in the search for new fundamental physics,"G Karagiorgi, G Kasieczka, S Kravitz… - Nature Reviews …, 2022 - nature.com",Cited by 141
+16,[PDF][PDF] Intelligent metaphotonics empowered by machine learning,"S Krasikov, A Tranter, A Bogdanov… - Opto-Electronic …, 2022 - researching.cn",Cited by 134
+17,A survey of human-in-the-loop for machine learning,"X Wu, L Xiao, Y Sun, J Zhang, T Ma, L He - Future Generation Computer …, 2022 - Elsevier",Cited by 508
+18,"Impact of machine learning on management, healthcare and agriculture","H Pallathadka, M Mustafa, DT Sanchez… - Materials Today …, 2023 - Elsevier",Cited by 188
+19,[BOOK][B] Designing machine learning systems,C Huyen - 2022 - books.google.com,Cited by 173
+20,Financial machine learning,"B Kelly, D Xiu - Foundations and Trends® in Finance, 2023 - nowpublishers.com",Cited by 44
+21,A review of molecular representation in the age of machine learning,"DS Wigh, JM Goodman… - Wiley Interdisciplinary …, 2022 - Wiley Online Library",Cited by 193
+22,A machine learning tutorial for operational meteorology. Part I: Traditional machine learning,"RJ Chase, DR Harrison, A Burke… - Weather and …, 2022 - journals.ametsoc.org",Cited by 55
+23,[HTML][HTML] Machine learning for combustion,"L Zhou, Y Song, W Ji, H Wei - Energy and AI, 2022 - Elsevier",Cited by 141
+24,[BOOK][B] Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python,"S Raschka, YH Liu, V Mirjalili - 2022 - books.google.com",Cited by 164
+25,"Understanding of machine learning with deep learning: architectures, workflow, applications and future directions","MM Taye - Computers, 2023 - mdpi.com",Cited by 315
+26,Machine learning in environmental research: common pitfalls and best practices,"JJ Zhu, M Yang, ZJ Ren - Environmental Science & Technology, 2023 - ACS Publications",Cited by 134
+27,Small data machine learning in materials science,"P Xu, X Ji, M Li, W Lu - npj Computational Materials, 2023 - nature.com",Cited by 162
+28,Pdebench: An extensive benchmark for scientific machine learning,"M Takamoto, T Praditia, R Leiteritz… - Advances in …, 2022 - proceedings.neurips.cc",Cited by 144
+29,Fairness in machine learning: A survey,"S Caton, C Haas - ACM Computing Surveys, 2024 - dl.acm.org",Cited by 641
+30,Machine learning methods for small data challenges in molecular science,"B Dou, Z Zhu, E Merkurjev, L Ke, L Chen… - Chemical …, 2023 - ACS Publications",Cited by 114
+31,"Foundations and Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions","PP Liang, A Zadeh, LP Morency - arXiv preprint arXiv:2209.03430, 2022 - arxiv.org",Cited by 138
+32,OMLT: Optimization & machine learning toolkit,"F Ceccon, J Jalving, J Haddad, A Thebelt… - … of Machine Learning …, 2022 - jmlr.org",Cited by 77
+33,Underspecification presents challenges for credibility in modern machine learning,"A D'Amour, K Heller, D Moldovan, B Adlam… - … of Machine Learning …, 2022 - jmlr.org",Cited by 748
+34,Darts: User-friendly modern machine learning for time series,"J Herzen, F Lässig, SG Piazzetta, T Neuer… - … of Machine Learning …, 2022 - jmlr.org",Cited by 219
+35,Future of machine learning in geotechnics,"KK Phoon, W Zhang - … : Assessment and Management of Risk for …, 2023 - Taylor & Francis",Cited by 161
+36,Machine learning for a sustainable energy future,"Z Yao, Y Lum, A Johnston, LM Mejia-Mendoza… - Nature Reviews …, 2023 - nature.com",Cited by 156
+37,Participation is not a design fix for machine learning,"M Sloane, E Moss, O Awomolo, L Forlano - Proceedings of the 2nd ACM …, 2022 - dl.acm.org",Cited by 209
+38,Challenges and opportunities in quantum machine learning,"M Cerezo, G Verdon, HY Huang, L Cincio… - Nature Computational …, 2022 - nature.com",Cited by 340
+39,A short review on machine learning,"TK Hua - Authorea Preprints, 2022 - authorea.com",Cited by 77
+40,Predictive analysis of heart diseases with machine learning approaches,"TR Ramesh, UK Lilhore, M Poongodi… - Malaysian Journal of …, 2022 - jpmm.um.edu.my",Cited by 407
+41,Findings on teaching machine learning in high school: A ten-year systematic literature review,"RM Martins, C Gresse Von Wangenheim - Informatics in Education, 2023 - ceeol.com",Cited by 257
+42,[BOOK][B] Mathematical analysis of machine learning algorithms,T Zhang - 2023 - books.google.com,Cited by 48
+43,Utilizing machine learning and deep learning in cybesecurity: an innovative approach,"K Dushyant, G Muskan, Annu, A Gupta… - Cyber security and …, 2022 - Wiley Online Library",Cited by 132
+44,[HTML][HTML] Scope of machine learning in materials research—A review,"MH Mobarak, MA Mimona, MA Islam, N Hossain… - Applied Surface Science …, 2023 - Elsevier",Cited by 37
+45,Coronavirus disease (COVID-19) cases analysis using machine-learning applications,"AS Kwekha-Rashid, HN Abduljabbar, B Alhayani - Applied Nanoscience, 2023 - Springer",Cited by 329
+46,Roadmap on machine learning in electronic structure,"HJ Kulik, T Hammerschmidt, J Schmidt, S Botti… - Electronic …, 2022 - iopscience.iop.org",Cited by 127
+47,[BOOK][B] Trustworthy machine learning,KR Vashney - 2022 - trustworthymachinelearning.com,Cited by 86
+48,Financial applications of machine learning: A literature review,"N Nazareth, YVR Reddy - Expert Systems with Applications, 2023 - Elsevier",Cited by 103
+49,Enhancing computational fluid dynamics with machine learning,"R Vinuesa, SL Brunton - Nature Computational Science, 2022 - nature.com",Cited by 333
+50,Stable learning establishes some common ground between causal inference and machine learning,"P Cui, S Athey - Nature Machine Intelligence, 2022 - nature.com",Cited by 142
+51,A review on fairness in machine learning,"D Pessach, E Shmueli - ACM Computing Surveys (CSUR), 2022 - dl.acm.org",Cited by 451
+52,[HTML][HTML] Machine learning in materials chemistry: An invitation,"D Packwood, LTH Nguyen, P Cesana, G Zhang… - Machine Learning with …, 2022 - Elsevier",Cited by 40
+53,Navigating the pitfalls of applying machine learning in genomics,"S Whalen, J Schreiber, WS Noble… - Nature Reviews Genetics, 2022 - nature.com",Cited by 193
+54,"Machine learning in concrete science: applications, challenges, and best practices","Z Li, J Yoon, R Zhang, F Rajabipour… - npj computational …, 2022 - nature.com",Cited by 137
+55,Evaluation guidelines for machine learning tools in the chemical sciences,"A Bender, N Schneider, M Segler… - Nature Reviews …, 2022 - nature.com",Cited by 88
+56,Colloquium: Machine learning in nuclear physics,"A Boehnlein, M Diefenthaler, N Sato, M Schram… - Reviews of modern …, 2022 - APS",Cited by 142
+57,[PDF][PDF] A Novel Machine Learning Approaches for Issues in Civil Engineering,"F Tahir, L Ghafoor - OSF Preprints. April, 2023 - easychair.org",Cited by 75
+58,"Machine learning in the quantum realm: The state-of-the-art, challenges, and future vision","EH Houssein, Z Abohashima, M Elhoseny… - Expert Systems with …, 2022 - Elsevier",Cited by 90
+59,Machine learning for structural engineering: A state-of-the-art review,"HT Thai - Structures, 2022 - Elsevier",Cited by 363
+60,Machine learning and deep learning—A review for ecologists,"M Pichler, F Hartig - Methods in Ecology and Evolution, 2023 - Wiley Online Library",Cited by 128
+61,[HTML][HTML] Exploring teachers' preconceptions of teaching machine learning in high school: A preliminary insight from Africa,"IT Sanusi, SS Oyelere, JO Omidiora - Computers and Education Open, 2022 - Elsevier",Cited by 274
+62,Machine learning in medical applications: A review of state-of-the-art methods,"M Shehab, L Abualigah, Q Shambour… - Computers in Biology …, 2022 - Elsevier",Cited by 301
+63,Artificial intelligence and machine learning: present and future applications in health sciences,"FAR Rodríguez, LG Flores… - Seminars in Medical …, 2022 - mw.ageditor.ar",Cited by 66
+64,The values encoded in machine learning research,"A Birhane, P Kalluri, D Card, W Agnew… - Proceedings of the …, 2022 - dl.acm.org",Cited by 291
+65,[PDF][PDF] Machine learning and AI in business intelligence: Trends and opportunities,"JP Bharadiya - International Journal of Computer (IJC), 2023 - researchgate.net",Cited by 276
+66,Lessons from infant learning for unsupervised machine learning,"L Zaadnoordijk, TR Besold, R Cusack - Nature Machine Intelligence, 2022 - nature.com",Cited by 54
+67,[HTML][HTML] A review of physics-based machine learning in civil engineering,"SR Vadyala, SN Betgeri, JC Matthews… - Results in Engineering, 2022 - Elsevier",Cited by 151
+68,Machine-learning-based disease diagnosis: A comprehensive review,"MM Ahsan, SA Luna, Z Siddique - Healthcare, 2022 - mdpi.com",Cited by 296
+69,A review on machine learning styles in computer vision—techniques and future directions,"SV Mahadevkar, B Khemani, S Patil, K Kotecha… - Ieee …, 2022 - ieeexplore.ieee.org",Cited by 132
+70,Machine learning on graphs: A model and comprehensive taxonomy,"I Chami, S Abu-El-Haija, B Perozzi, C Ré… - … of Machine Learning …, 2022 - jmlr.org",Cited by 359
+71,"[PDF][PDF] Has the future started? The current growth of artificial intelligence, machine learning, and deep learning","K Aggarwal, MM Mijwil, AH Al-Mistarehi… - Iraqi Journal for …, 2022 - iasj.net",Cited by 285
+72,Interpretable machine learning: Fundamental principles and 10 grand challenges,"C Rudin, C Chen, Z Chen, H Huang… - Statistic …, 2022 - projecteuclid.org",Cited by 737
+73,Predictive models for concrete properties using machine learning and deep learning approaches: A review,"MM Moein, A Saradar, K Rahmati… - Journal of Building …, 2023 - Elsevier",Cited by 196
+74,[BOOK][B] Machine learning in materials science,"KT Butler, F Oviedo, P Canepa - 2022 - books.google.com",Cited by 41
+75,Automating in-network machine learning,"C Zheng, M Zang, X Hong, R Bensoussane… - arXiv preprint arXiv …, 2022 - arxiv.org",Cited by 50
+76,"Artificial intelligence and machine learning in clinical medicine, 2023","CJ Haug, JM Drazen - New England Journal of Medicine, 2023 - Mass Medical Soc",Cited by 551
+77,Machine learning in drug discovery: a review,"S Dara, S Dhamercherla, SS Jadav, CHM Babu… - Artificial intelligence …, 2022 - Springer",Cited by 451
+78,Machine learning for wireless sensor networks security: An overview of challenges and issues,"R Ahmad, R Wazirali, T Abu-Ain - Sensors, 2022 - mdpi.com",Cited by 126
+79,Causal machine learning: A survey and open problems,"J Kaddour, A Lynch, Q Liu, MJ Kusner… - arXiv preprint arXiv …, 2022 - arxiv.org",Cited by 137
+80,"[PDF][PDF] A review of Bayesian machine learning principles, methods, and applications","JP Bharadiya - International Journal of Innovative Science and …, 2023 - researchgate.net",Cited by 58
+81,Innovative materials science via machine learning,"C Gao, X Min, M Fang, T Tao, X Zheng… - Advanced Functional …, 2022 - Wiley Online Library",Cited by 120
+82,"[HTML][HTML] Artificial intelligence, machine learning and deep learning in advanced robotics, a review","M Soori, B Arezoo, R Dastres - Cognitive Robotics, 2023 - Elsevier",Cited by 412
+83,Towards application of various machine learning techniques in agriculture,"ST Jagtap, K Phasinam, T Kassanuk, SS Jha… - Materials Today …, 2022 - Elsevier",Cited by 58
+84,Interpretable machine learning for science with PySR and SymbolicRegression. jl,"M Cranmer - arXiv preprint arXiv:2305.01582, 2023 - arxiv.org",Cited by 143
+85,Machine learning and the five big ideas in AI,"D Touretzky, C Gardner-McCune… - International Journal of …, 2023 - Springer",Cited by 55
+86,Crop prediction model using machine learning algorithms,"E Elbasi, C Zaki, AE Topcu, W Abdelbaki, AI Zreikat… - Applied Sciences, 2023 - mdpi.com",Cited by 78
+87,Machine learning process evaluating damage classification of composites,"M Amini, A Rahmani - International Journal of Science and …, 2023 - papers.ssrn.com",Cited by 120
+88,Data-driven machine learning in environmental pollution: gains and problems,"X Liu, D Lu, A Zhang, Q Liu, G Jiang - Environmental science & …, 2022 - ACS Publications",Cited by 203
+89,Machine Learning Applications in Diabetic Healthcare: A Comprehensive Analysis and Predictive Modeling,"BY Kasula - International Numeric Journal of Machine Learning and …, 2023 - injmr.com",Cited by 32
+90,Machine learning in disaster management: recent developments in methods and applications,"V Linardos, M Drakaki, P Tzionas… - Machine Learning and …, 2022 - mdpi.com",Cited by 130
+91,Bridging biological cfDNA features and machine learning approaches,"T Moser, S Kühberger, I Lazzeri, G Vlachos, E Heitzer - Trends in Genetics, 2023 - cell.com",Cited by 50
+92,[HTML][HTML] Knowledge Discovery: Methods from data mining and machine learning,"X Shu, Y Ye - Social Science Research, 2023 - Elsevier",Cited by 124
+93,Machine learning in weather prediction and climate analyses—applications and perspectives,"B Bochenek, Z Ustrnul - Atmosphere, 2022 - mdpi.com",Cited by 186
+94,Identifying who has long COVID in the USA: a machine learning approach using N3C data,"ER Pfaff, AT Girvin, TD Bennett, A Bhatia… - The Lancet Digital …, 2022 - thelancet.com",Cited by 151
+95,Adversarial Machine Learning in the Context of Network Security: Challenges and Solutions,"M Khan, L Ghafoor - Journal of Computational Intelligence …, 2024 - thesciencebrigade.com",Cited by 113
+96,A comprehensive survey on regularization strategies in machine learning,"Y Tian, Y Zhang - Information Fusion, 2022 - Elsevier",Cited by 191
+97,Machine learning-enabled retrobiosynthesis of molecules,"T Yu, AG Boob, MJ Volk, X Liu, H Cui, H Zhao - Nature Catalysis, 2023 - nature.com",Cited by 55
+98,Machine learning for intelligent data analysis and automation in cybersecurity: current and future prospects,"IH Sarker - Annals of Data Science, 2023 - Springer",Cited by 146
+99,"Challenges and benchmark datasets for machine learning in the atmospheric sciences: Definition, status, and outlook","PD Dueben, MG Schultz, M Chantry… - … Intelligence for the …, 2022 - journals.ametsoc.org",Cited by 49
+100,"From patterns to patients: Advances in clinical machine learning for cancer diagnosis, prognosis, and treatment","K Swanson, E Wu, A Zhang, AA Alizadeh, J Zou - Cell, 2023 - cell.com",Cited by 159
+101,Challenges to use machine learning in agricultural big data: a systematic literature review,"A Cravero, S Pardo, S Sepúlveda, L Muñoz - Agronomy, 2022 - mdpi.com",Cited by 103
+102,A survey of machine learning and its applications,"M Madhu, P WHIG - International Journal of Machine Learning for …, 2022 - ijsdcs.com",Cited by 33
+103,Automation of human behaviors and its prediction using machine learning,"H Jupalle, S Kouser, AB Bhatia, N Alam… - Microsystem …, 2022 - Springer",Cited by 103
+104,[HTML][HTML] An overview of machine learning applications for smart buildings,"K Alanne, S Sierla - Sustainable Cities and Society, 2022 - Elsevier",Cited by 190
+105,Machine learning skills to K–12,"AB Sallow, RR Asaad, HB Ahmad… - Journal of Soft …, 2024 - publisher.uthm.edu.my",Cited by 7
+106,[BOOK][B] Machine learning: theory to applications,"SL Mirtaheri, R Shahbazian - 2022 - taylorfrancis.com",Cited by 30
+107,Dos and don'ts of machine learning in computer security,"D Arp, E Quiring, F Pendlebury, A Warnecke… - 31st USENIX Security …, 2022 - usenix.org",Cited by 371
+108,Machine learning techniques for pavement condition evaluation,"N Sholevar, A Golroo, SR Esfahani - Automation in Construction, 2022 - Elsevier",Cited by 121
+109,Water quality classification using machine learning algorithms,"N Nasir, A Kansal, O Alshaltone, F Barneih… - Journal of Water …, 2022 - Elsevier",Cited by 170
+110,Evaluating machine learning models and their diagnostic value,"G Varoquaux, O Colliot - Machine learning for brain disorders, 2023 - Springer",Cited by 80
+111,The shapley value in machine learning,"B Rozemberczki, L Watson, P Bayer, HT Yang… - arXiv preprint arXiv …, 2022 - arxiv.org",Cited by 186
+112,Applications of Artificial Intelligent and Machine Learning Techniques in Image Processing,"S Boopathi, UK Kanike - … of Research on Thrust Technologies' Effect …, 2023 - igi-global.com",Cited by 59
+113,Machine learning for micro-and nanorobots,"L Yang, J Jiang, F Ji, Y Li, KL Yung, A Ferreira… - Nature Machine …, 2024 - nature.com",Cited by 7
+114,[HTML][HTML] Machine learning techniques and data for stock market forecasting: A literature review,"MM Kumbure, C Lohrmann, P Luukka… - Expert Systems with …, 2022 - Elsevier",Cited by 330
+115,Research on Machine Learning With Algorithms and Development,"L Yu, X Zhao, J Huang, H Hu… - Journal of Theory and …, 2023 - centuryscipub.com",Cited by 35
+116,Retrieval-enhanced machine learning,"H Zamani, F Diaz, M Dehghani, D Metzler… - Proceedings of the 45th …, 2022 - dl.acm.org",Cited by 48
+117,[HTML][HTML] Overcoming the pitfalls and perils of algorithms: A classification of machine learning biases and mitigation methods,"B Van Giffen, D Herhausen, T Fahse - Journal of Business Research, 2022 - Elsevier",Cited by 148
+118,"Review of artificial intelligence and machine learning technologies: classification, restrictions, opportunities and challenges","RI Mukhamediev, Y Popova, Y Kuchin, E Zaitseva… - Mathematics, 2022 - mdpi.com",Cited by 154
+119,Learning machine learning with young children: Exploring informal settings in an African context,"IT Sanusi, K Sunday, SS Oyelere… - Computer Science …, 2024 - Taylor & Francis",Cited by 22
+120,"Past, present, and future of the application of machine learning in cryptocurrency research","YS Ren, CQ Ma, XL Kong, K Baltas… - Research in International …, 2022 - Elsevier",Cited by 53
+121,[HTML][HTML] Using machine learning for healthcare challenges and opportunities,"A Alanazi - Informatics in Medicine Unlocked, 2022 - Elsevier",Cited by 142
+122,Compute trends across three eras of machine learning,"J Sevilla, L Heim, A Ho, T Besiroglu… - … Joint Conference on …, 2022 - ieeexplore.ieee.org",Cited by 290
+123,The role of machine learning in cybersecurity,"G Apruzzese, P Laskov, E Montes de Oca… - … Threats: Research and …, 2023 - dl.acm.org",Cited by 148
+124,Machine learning for electrocatalyst and photocatalyst design and discovery,"H Mai, TC Le, D Chen, DA Winkler… - Chemical …, 2022 - ACS Publications",Cited by 210
+125,Emerging trends in machine learning: a polymer perspective,"TB Martin, DJ Audus - ACS Polymers Au, 2023 - ACS Publications",Cited by 53
+126,A review of machine learning applications in human resource management,"S Garg, S Sinha, AK Kar, M Mani - International Journal of …, 2022 - emerald.com",Cited by 259
+127,A survey on datasets for fairness‐aware machine learning,"T Le Quy, A Roy, V Iosifidis, W Zhang… - … Reviews: Data Mining …, 2022 - Wiley Online Library",Cited by 246
+128,Application of machine learning for advanced material prediction and design,"CH Chan, M Sun, B Huang - EcoMat, 2022 - Wiley Online Library",Cited by 47
+129,[BOOK][B] An introduction to optimization: with applications to machine learning,"EKP Chong, WS Lu, SH Zak - 2023 - books.google.com",Cited by 34
+130,Stroke risk prediction with machine learning techniques,"E Dritsas, M Trigka - Sensors, 2022 - mdpi.com",Cited by 170
+131,[PDF][PDF] Machine learning and the implementable efficient frontier,"TI Jensen, BT Kelly, S Malamud… - Swiss Finance Institute …, 2024 - aeaweb.org",Cited by 46
+132,Machine learning meets omics: applications and perspectives,"R Li, L Li, Y Xu, J Yang - Briefings in Bioinformatics, 2022 - academic.oup.com",Cited by 103
+133,Can we predict T cell specificity with digital biology and machine learning?,"D Hudson, RA Fernandes, M Basham, G Ogg… - Nature Reviews …, 2023 - nature.com",Cited by 95
+134,Machine learning for polymeric materials: an introduction,"MM Cencer, JS Moore, RS Assary - Polymer International, 2022 - Wiley Online Library",Cited by 58
+135,Jury learning: Integrating dissenting voices into machine learning models,"ML Gordon, MS Lam, JS Park, K Patel… - Proceedings of the …, 2022 - dl.acm.org",Cited by 172
+136,"What is machine learning, artificial neural networks and deep learning?—Examples of practical applications in medicine","J Kufel, K Bargieł-Łączek, S Kocot, M Koźlik… - Diagnostics, 2023 - mdpi.com",Cited by 76
+137,Machine learning and artificial intelligence in toxicological sciences,"Z Lin, WC Chou - Toxicological Sciences, 2022 - academic.oup.com",Cited by 51
+138,Machine learning‐driven biomaterials evolution,"A Suwardi, FK Wang, K Xue, MY Han, P Teo… - Advanced …, 2022 - Wiley Online Library",Cited by 121
+139,Machine learning for synthetic data generation: a review,"Y Lu, M Shen, H Wang, X Wang, C van Rechem… - arXiv preprint arXiv …, 2023 - arxiv.org",Cited by 113
+140,"[HTML][HTML] Supervised machine learning in drug discovery and development: Algorithms, applications, challenges, and prospects","G Obaido, ID Mienye, OF Egbelowo… - Machine Learning with …, 2024 - Elsevier",Cited by 4
+141,An unsupervised machine learning algorithms: Comprehensive review,"S Naeem, A Ali, S Anam… - International Journal of …, 2023 - journals.uob.edu.bh",Cited by 56
+142,Classification and prediction of student performance data using various machine learning algorithms,"H Pallathadka, A Wenda, E Ramirez-Asís… - Materials today …, 2023 - Elsevier",Cited by 161
+143,Machine learning empowered computer networks,"T Cerquitelli, M Meo, M Curado, L Skorin-Kapov… - Computer …, 2023 - Elsevier",Cited by 40
+144,Data quantity governance for machine learning in materials science,"Y Liu, Z Yang, X Zou, S Ma, D Liu… - National Science …, 2023 - academic.oup.com",Cited by 50
+145,Machine learning for microcontroller-class hardware: A review,"SS Saha, SS Sandha, M Srivastava - IEEE Sensors Journal, 2022 - ieeexplore.ieee.org",Cited by 122
+146,Machine learning and deep learning approaches for cybersecurity: A review,"A Halbouni, TS Gunawan, MH Habaebi… - IEEE …, 2022 - ieeexplore.ieee.org",Cited by 142
+147,Application of machine learning in ocean data,"R Lou, Z Lv, S Dang, T Su, X Li - Multimedia Systems, 2023 - Springer",Cited by 101
+148,Sensing and machine learning for automotive perception: A review,"A Pandharipande, CH Cheng, J Dauwels… - IEEE Sensors …, 2023 - ieeexplore.ieee.org",Cited by 52
+149,[HTML][HTML] Applications and techniques for fast machine learning in science,"AMC Deiana, N Tran, J Agar, M Blott… - Frontiers in big …, 2022 - frontiersin.org",Cited by 60
+150,Accurately identifying hemagglutinin using sequence information and machine learning methods,"X Zou, L Ren, P Cai, Y Zhang, H Ding, K Deng… - Frontiers in …, 2023 - frontiersin.org",Cited by 46
+151,"Physics-informed machine learning: A survey on problems, methods and applications","Z Hao, S Liu, Y Zhang, C Ying, Y Feng, H Su… - arXiv preprint arXiv …, 2022 - arxiv.org",Cited by 123
+152,Machine learning for medical imaging: methodological failures and recommendations for the future,"G Varoquaux, V Cheplygina - NPJ digital medicine, 2022 - nature.com",Cited by 392
+153,The transformative potential of machine learning for experiments in fluid mechanics,"R Vinuesa, SL Brunton, BJ McKeon - Nature Reviews Physics, 2023 - nature.com",Cited by 39
+154,A review of machine learning and deep learning approaches on mental health diagnosis,"NK Iyortsuun, SH Kim, M Jhon, HJ Yang, S Pant - Healthcare, 2023 - mdpi.com",Cited by 78
+155,How machine learning can accelerate electrocatalysis discovery and optimization,"SN Steinmann, Q Wang, ZW Seh - Materials Horizons, 2023 - pubs.rsc.org",Cited by 42
+156,Machine learning for organic photovoltaic polymers: a minireview,"A Mahmood, A Irfan, JL Wang - Chinese Journal of Polymer Science, 2022 - Springer",Cited by 109
+157,"Artificial intelligence, machine learning, and deep learning in structural engineering: a scientometrics review of trends and best practices","ATG Tapeh, MZ Naser - Archives of Computational Methods in …, 2023 - Springer",Cited by 130
+158,Machine learning-based global maps of ecological variables and the challenge of assessing them,"H Meyer, E Pebesma - Nature Communications, 2022 - nature.com",Cited by 147
+159,Weisfeiler and leman go machine learning: The story so far,"C Morris, Y Lipman, H Maron, B Rieck… - … of Machine Learning …, 2023 - dl.acm.org",Cited by 119
+160,Substituting human decision-making with machine learning: Implications for organizational learning,"N Balasubramanian, Y Ye, M Xu - Academy of Management …, 2022 - journals.aom.org",Cited by 177
+161,Machine learning and deep learning applications in microbiome research,"R Hernández Medina, S Kutuzova… - ISME …, 2022 - academic.oup.com",Cited by 96
+162,"A survey of machine learning and deep learning in remote sensing of geological environment: Challenges, advances, and opportunities","W Han, X Zhang, Y Wang, L Wang, X Huang… - ISPRS Journal of …, 2023 - Elsevier",Cited by 73
+163,[HTML][HTML] Machine learning in the Chinese stock market,"M Leippold, Q Wang, W Zhou - Journal of Financial Economics, 2022 - Elsevier",Cited by 295
+164,Predicting the actual use of m-learning systems: a comparative approach using PLS-SEM and machine learning algorithms,"M Alshurideh, B Al Kurdi, SA Salloum… - Interactive Learning …, 2023 - Taylor & Francis",Cited by 252
+165,[HTML][HTML] A comprehensive review on detection of plant disease using machine learning and deep learning approaches,"C Jackulin, S Murugavalli - Measurement: Sensors, 2022 - Elsevier",Cited by 144
+166,Weakly supervised machine learning,"Z Ren, S Wang, Y Zhang - CAAI Transactions on Intelligence …, 2023 - Wiley Online Library",Cited by 68
+167,An introduction to quantum machine learning for engineers,"O Simeone - Foundations and Trends® in Signal Processing, 2022 - nowpublishers.com",Cited by 39
+168,[HTML][HTML] Research and application of machine learning for additive manufacturing,"J Qin, F Hu, Y Liu, P Witherell, CCL Wang… - Additive …, 2022 - Elsevier",Cited by 248
+169,Intelligent model to predict early liver disease using machine learning technique,"TM Ghazal, AU Rehman, M Saleem… - … for Technology and …, 2022 - ieeexplore.ieee.org",Cited by 152
+170,Randomized clinical trials of machine learning interventions in health care: a systematic review,"D Plana, DL Shung, AA Grimshaw, A Saraf… - JAMA network …, 2022 - jamanetwork.com",Cited by 126
+171,Application of machine learning in groundwater quality modeling-A comprehensive review,"R Haggerty, J Sun, H Yu, Y Li - Water Research, 2023 - Elsevier",Cited by 90
+172,Stop ordering machine learning algorithms by their explainability! A user-centered investigation of performance and explainability,"LV Herm, K Heinrich, J Wanner, C Janiesch - International Journal of …, 2023 - Elsevier",Cited by 91
+173,Teaching machine learning in elementary school,"G Shamir, I Levin - International Journal of Child-Computer Interaction, 2022 - Elsevier",Cited by 44
+174,When physics meets machine learning: A survey of physics-informed machine learning,"C Meng, S Seo, D Cao, S Griesemer, Y Liu - arXiv preprint arXiv …, 2022 - arxiv.org",Cited by 75
+175,Comparing machine learning algorithms for predicting COVID-19 mortality,"K Moulaei, M Shanbehzadeh… - BMC medical informatics …, 2022 - Springer",Cited by 144
+176,Machine learning for hypertension prediction: a systematic review,"GFS Silva, TP Fagundes, BC Teixeira… - Current hypertension …, 2022 - Springer",Cited by 60
+177,"… oil price volatility using historical prices of five precious metals in context of green financing–A comparison of deep learning, machine learning, and statistical models","M Mohsin, F Jamaani - Resources Policy, 2023 - Elsevier",Cited by 17
+178,High-throughput microbial culturomics using automation and machine learning,"Y Huang, RU Sheth, S Zhao, LA Cohen… - Nature …, 2023 - nature.com",Cited by 85
+179,[HTML][HTML] Machine learning in nutrition research,"D Kirk, E Kok, M Tufano, B Tekinerdogan… - Advances in …, 2022 - Elsevier",Cited by 55
+180,"Uncertainty quantification in scientific machine learning: Methods, metrics, and comparisons","AF Psaros, X Meng, Z Zou, L Guo… - Journal of Computational …, 2023 - Elsevier",Cited by 230
+181,Artificial intelligence: machine learning for chemical sciences,"A Karthikeyan, UD Priyakumar - Journal of Chemical Sciences, 2022 - Springer",Cited by 62
+182,[HTML][HTML] An innovative machine learning model for supply chain management,"H Lin, J Lin, F Wang - Journal of Innovation & Knowledge, 2022 - Elsevier",Cited by 74
+183,"Machine learning in modelling land-use and land cover-change (LULCC): Current status, challenges and prospects","J Wang, M Bretz, MAA Dewan, MA Delavar - Science of The Total …, 2022 - Elsevier",Cited by 181
+184,"Material machine learning for alloys: Applications, challenges and perspectives","X Liu, P Xu, J Zhao, W Lu, M Li, G Wang - Journal of Alloys and Compounds, 2022 - Elsevier",Cited by 76
+185,Are formal methods applicable to machine learning and artificial intelligence?,"M Krichen, A Mihoub, MY Alzahrani… - … Conference of Smart …, 2022 - ieeexplore.ieee.org",Cited by 104
+186,Generalization in quantum machine learning from few training data,"MC Caro, HY Huang, M Cerezo, K Sharma… - Nature …, 2022 - nature.com",Cited by 331
+187,Mitigating the multicollinearity problem and its machine learning approach: a review,"JYL Chan, SMH Leow, KT Bea, WK Cheng… - Mathematics, 2022 - mdpi.com",Cited by 228
+188,[HTML][HTML] Artificial intelligence and machine learning in drug discovery and development,"V Patel, M Shah - Intelligent Medicine, 2022 - Elsevier",Cited by 126
+189,Cybersecurity threats and their mitigation approaches using Machine Learning—A Review,"M Ahsan, KE Nygard, R Gomes… - … of Cybersecurity and …, 2022 - mdpi.com",Cited by 118
+190,Machine learning-driven credit risk: a systemic review,"S Shi, R Tse, W Luo, S D'Addona, G Pau - Neural Computing and …, 2022 - Springer",Cited by 91
+191,"[HTML][HTML] Significance of machine learning in healthcare: Features, pillars and applications","M Javaid, A Haleem, RP Singh, R Suman… - International Journal of …, 2022 - Elsevier",Cited by 393
+192,Fusion of finite element and machine learning methods to predict rock shear strength parameters,"D Zhu, B Yu, D Wang, Y Zhang - Journal of Geophysics and …, 2024 - academic.oup.com",Cited by 49
+193,Integrating AI and Machine Learning in Quality Assurance for Automation Engineering,"PR Kothamali, VK Karne… - International Journal for …, 2024 - jrps.shodhsagar.com",Cited by 36
+194,Chatgpt or human? detect and explain. explaining decisions of machine learning model for detecting short chatgpt-generated text,"S Mitrović, D Andreoletti, O Ayoub - arXiv preprint arXiv:2301.13852, 2023 - arxiv.org",Cited by 150
+195,Heart diseases prediction using machine learning,"AL Yadav, K Soni, S Khare - 2023 14th International …, 2023 - ieeexplore.ieee.org",Cited by 228
+196,Understanding APT detection using Machine learning algorithms: Is superior accuracy a thing?,"S Arefin, M Chowdhury, R Parvez… - 2024 IEEE …, 2024 - ieeexplore.ieee.org",Cited by 31
+197,A comparative analysis of machine learning algorithms for classification purpose,"V Sheth, U Tripathi, A Sharma - Procedia Computer Science, 2022 - Elsevier",Cited by 48
+198,"An overview of machine learning, deep learning, and reinforcement learning-based techniques in quantitative finance: recent progress and challenges","SK Sahu, A Mokhade, ND Bokde - Applied Sciences, 2023 - mdpi.com",Cited by 76
+199,Fusion-based supply chain collaboration using machine learning techniques,"TM Ghazal, HM Alzoubi - … & Soft Computing, 2022 - research.skylineuniversity.ac.ae",Cited by 256
+200,Artificial intelligence and machine learning in cancer imaging,"DM Koh, N Papanikolaou, U Bick, R Illing… - Communications …, 2022 - nature.com",Cited by 152
+201,Machine learning applications for COVID-19 outbreak management,"A Heidari, N Jafari Navimipour, M Unal… - Neural Computing and …, 2022 - Springer",Cited by 95
+202,Torchdrug: A powerful and flexible machine learning platform for drug discovery,"Z Zhu, C Shi, Z Zhang, S Liu, M Xu, X Yuan… - arXiv preprint arXiv …, 2022 - arxiv.org",Cited by 74
+203,Machine learning and landslide studies: recent advances and applications,"FS Tehrani, M Calvello, Z Liu, L Zhang, S Lacasse - Natural Hazards, 2022 - Springer",Cited by 125
+204,[HTML][HTML] Machine learning and remote sensing integration for leveraging urban sustainability: A review and framework,"F Li, T Yigitcanlar, M Nepal, K Nguyen, F Dur - Sustainable Cities and …, 2023 - Elsevier",Cited by 62
+205,A comparative study of machine learning algorithms for detecting breast cancer,"RH Khan, J Miah, MM Rahman… - 2023 IEEE 13th Annual …, 2023 - ieeexplore.ieee.org",Cited by 38
+206,A survey of privacy attacks in machine learning,"M Rigaki, S Garcia - ACM Computing Surveys, 2023 - dl.acm.org",Cited by 267
+207,Water quality assessment through predictive machine learning,"H Ghosh, MA Tusher, IS Rahat, S Khasim… - … on Intelligent Computing …, 2023 - Springer",Cited by 62
+208,Revolutionizing drug formulation development: the increasing impact of machine learning,"Z Bao, J Bufton, RJ Hickman, A Aspuru-Guzik… - Advanced Drug Delivery …, 2023 - Elsevier",Cited by 22
+209,"Mental health prediction using machine learning: taxonomy, applications, and challenges","J Chung, J Teo - Applied Computational Intelligence and Soft …, 2022 - Wiley Online Library",Cited by 111
+210,"A robust, agnostic molecular biosignature based on machine learning","HJ Cleaves, G Hystad, A Prabhu… - Proceedings of the …, 2023 - National Acad Sciences",Cited by 13
+211,Machine learning and deep learning based predictive quality in manufacturing: a systematic review,"H Tercan, T Meisen - Journal of Intelligent Manufacturing, 2022 - Springer",Cited by 163
+212,Towards applicability of machine learning techniques in agriculture and energy sector,"K Arumugam, Y Swathi, DT Sanchez, M Mustafa… - Materials Today …, 2022 - Elsevier",Cited by 42
+213,Applied machine learning as a driver for polymeric biomaterials design,"SM McDonald, EK Augustine, Q Lanners… - Nature …, 2023 - nature.com",Cited by 33
+214,A survey of machine learning approaches in animal behaviour,"N Kleanthous, AJ Hussain, W Khan, J Sneddon… - Neurocomputing, 2022 - Elsevier",Cited by 40
+215,Recent advances and application of machine learning in food flavor prediction and regulation,"H Ji, D Pu, W Yan, Q Zhang, M Zuo, Y Zhang - Trends in Food Science & …, 2023 - Elsevier",Cited by 49
+216,A dependable hybrid machine learning model for network intrusion detection,"MA Talukder, KF Hasan, MM Islam, MA Uddin… - Journal of Information …, 2023 - Elsevier",Cited by 135
+217,A comprehensive survey on poisoning attacks and countermeasures in machine learning,"Z Tian, L Cui, J Liang, S Yu - ACM Computing Surveys, 2022 - dl.acm.org",Cited by 161
+218,A review of feature selection methods for machine learning-based disease risk prediction,"N Pudjihartono, T Fadason, AW Kempa-Liehr… - Frontiers in …, 2022 - frontiersin.org",Cited by 349
+219,An introduction to machine learning for classification and prediction,"JE Black, JK Kueper, TS Williamson - Family practice, 2023 - academic.oup.com",Cited by 34
+220,"[HTML][HTML] A comparative analysis of K-nearest neighbor, genetic, support vector machine, decision tree, and long short term memory algorithms in machine learning","M Bansal, A Goyal, A Choudhary - Decision Analytics Journal, 2022 - Elsevier",Cited by 354
+221,Data drift in medical machine learning: implications and potential remedies,"B Sahiner, W Chen, RK Samala… - The British Journal of …, 2023 - academic.oup.com",Cited by 51
+222,[HTML][HTML] Systematic literature review: Quantum machine learning and its applications,"D Peral-García, J Cruz-Benito… - Computer Science …, 2024 - Elsevier",Cited by 93
+223,Modeling organizational performance with machine learning,"J Pap, C Mako, M Illessy, N Kis, A Mosavi - Journal of Open Innovation …, 2022 - mdpi.com",Cited by 46
+224,Machine learning in aerodynamic shape optimization,"J Li, X Du, JRRA Martins - Progress in Aerospace Sciences, 2022 - Elsevier",Cited by 172
+225,Machine learning for drilling applications: A review,"R Zhong, C Salehi, R Johnson Jr - Journal of Natural Gas Science and …, 2022 - Elsevier",Cited by 45
+226,Interpretable machine learning for knowledge generation in heterogeneous catalysis,"JA Esterhuizen, BR Goldsmith, S Linic - Nature catalysis, 2022 - nature.com",Cited by 184
+227,Comparative analysis for slope stability by using machine learning methods,"YA Nanehkaran, Z Licai, J Chengyong, J Chen… - Applied Sciences, 2023 - mdpi.com",Cited by 48
+228,A digital game based learning approach for effective curriculum transaction for teaching-learning of artificial intelligence and machine learning,"A Alam - … Conference on Sustainable Computing and Data …, 2022 - ieeexplore.ieee.org",Cited by 451
+229,The role of machine learning techniques in internet of things-based cloud applications,"S Mishra, AK Tyagi - Artificial intelligence-based internet of things systems, 2022 - Springer",Cited by 228
+230,Interpretable and explainable machine learning for materials science and chemistry,"F Oviedo, JL Ferres, T Buonassisi… - Accounts of Materials …, 2022 - ACS Publications",Cited by 122
+231,A Review on Sustainable Energy Sources Using Machine Learning and Deep Learning Models,"A Bhansali, N Narasimhulu, R Pérez de Prado… - Energies, 2023 - mdpi.com",Cited by 30
+232,"Machine learning for high-entropy alloys: Progress, challenges and opportunities","X Liu, J Zhang, Z Pei - Progress in Materials Science, 2023 - Elsevier",Cited by 132
+233,How machine learning is solving the binary function similarity problem,"A Marcelli, M Graziano, X Ugarte-Pedrero… - 31st USENIX Security …, 2022 - usenix.org",Cited by 88
+234,[HTML][HTML] Democratizing artificial intelligence: How no-code AI can leverage machine learning operations,"L Sundberg, J Holmström - Business Horizons, 2023 - Elsevier",Cited by 60
+235,Quantum machine learning: from physics to software engineering,"A Melnikov, M Kordzanganeh, A Alodjants… - Advances in Physics …, 2023 - Taylor & Francis",Cited by 68
+236,Application of machine learning in anaerobic digestion: Perspectives and challenges,"IA Cruz, W Chuenchart, F Long, KC Surendra… - Bioresource …, 2022 - Elsevier",Cited by 151
+237,A model for predicting cervical cancer using machine learning algorithms,"N Al Mudawi, A Alazeb - Sensors, 2022 - mdpi.com",Cited by 73
+238,Algorithmic fairness and bias mitigation for clinical machine learning with deep reinforcement learning,"J Yang, AAS Soltan, DW Eyre, DA Clifton - Nature Machine Intelligence, 2023 - nature.com",Cited by 38
+239,[HTML][HTML] Unsupervised machine learning in urban studies: A systematic review of applications,"J Wang, F Biljecki - Cities, 2022 - Elsevier",Cited by 103
+240,Application of machine learning to the monitoring and prediction of food safety: A review,"X Wang, Y Bouzembrak, AO Lansink… - … Reviews in Food …, 2022 - Wiley Online Library",Cited by 92
+241,Machine learning for multi-omics data integration in cancer,"Z Cai, RC Poulos, J Liu, Q Zhong - Iscience, 2022 - cell.com",Cited by 116
+242,Machine learning and artificial intelligence in pharmaceutical research and development: a review,"S Kolluri, J Lin, R Liu, Y Zhang, W Zhang - The AAPS journal, 2022 - Springer",Cited by 160
+243,Organic reaction mechanism classification using machine learning,"J Burés, I Larrosa - Nature, 2023 - nature.com",Cited by 62
+244,Reviewing machine learning of corrosion prediction in a data-oriented perspective,"LB Coelho, D Zhang, Y Van Ingelgem… - npj Materials …, 2022 - nature.com",Cited by 104
+245,A survey of machine learning in additive manufacturing technologies,"J Jiang - International Journal of Computer Integrated …, 2023 - Taylor & Francis",Cited by 39
+246,Autoencoders and their applications in machine learning: a survey,"K Berahmand, F Daneshfar, ES Salehi, Y Li… - Artificial Intelligence …, 2024 - Springer",Cited by 54
+247,Building energy consumption prediction for residential buildings using deep learning and other machine learning techniques,"R Olu-Ajayi, H Alaka, I Sulaimon, F Sunmola… - Journal of Building …, 2022 - Elsevier",Cited by 323
+248,Scientific machine learning through physics–informed neural networks: Where we are and what's next,"S Cuomo, VS Di Cola, F Giampaolo, G Rozza… - Journal of Scientific …, 2022 - Springer",Cited by 1137
+249,Machine learning for hydrothermal treatment of biomass: A review,"W Zhang, Q Chen, J Chen, D Xu, H Zhan, H Peng… - Bioresource …, 2023 - Elsevier",Cited by 64
+250,Machine learning advances for time series forecasting,"RP Masini, MC Medeiros… - Journal of economic …, 2023 - Wiley Online Library",Cited by 306
+251,A review of machine learning in processing remote sensing data for mineral exploration,"H Shirmard, E Farahbakhsh, RD Müller… - Remote Sensing of …, 2022 - Elsevier",Cited by 209
+252,"Application of machine learning in thermal comfort studies: A review of methods, performance and challenges","ZQ Fard, ZS Zomorodian, SS Korsavi - Energy and Buildings, 2022 - Elsevier",Cited by 126
+253,In-processing modeling techniques for machine learning fairness: A survey,"M Wan, D Zha, N Liu, N Zou - ACM Transactions on Knowledge …, 2023 - dl.acm.org",Cited by 110
+254,"A review on machine learning, artificial intelligence, and smart technology in water treatment and monitoring","M Lowe, R Qin, X Mao - Water, 2022 - mdpi.com",Cited by 160
+255,Supervised machine learning: algorithms and applications,"SH Shetty, S Shetty, C Singh… - … and methods of machine …, 2022 - Wiley Online Library",Cited by 56
+256,Multi-omic machine learning predictor of breast cancer therapy response,"SJ Sammut, M Crispin-Ortuzar, SF Chin, E Provenzano… - Nature, 2022 - nature.com",Cited by 320
+257,[HTML][HTML] Diabetes mellitus prediction and diagnosis from a data preprocessing and machine learning perspective,"CC Olisah, L Smith, M Smith - Computer Methods and Programs in …, 2022 - Elsevier",Cited by 128
+258,Shifting machine learning for healthcare from development to deployment and from models to data,"A Zhang, L Xing, J Zou, JC Wu - Nature Biomedical Engineering, 2022 - nature.com",Cited by 202
+259,New opportunity: machine learning for polymer materials design and discovery,"P Xu, H Chen, M Li, W Lu - Advanced Theory and Simulations, 2022 - Wiley Online Library",Cited by 67
+260,Operating machine learning across natural language processing techniques for improvement of fabricated news model,"K Sharifani, M Amini, Y Akbari… - … Journal of Science …, 2022 - papers.ssrn.com",Cited by 145
+261,"Machine learning and deep learning based computational techniques in automatic agricultural diseases detection: Methodologies, applications, and challenges","JA Wani, S Sharma, M Muzamil, S Ahmed… - … methods in Engineering, 2022 - Springer",Cited by 157
+262,A machine learning approach for corrosion small datasets,"T Sutojo, S Rustad, M Akrom, A Syukur… - npj Materials …, 2023 - nature.com",Cited by 52
+263,Machine learning–enabled high-entropy alloy discovery,"Z Rao, PY Tung, R Xie, Y Wei, H Zhang, A Ferrari… - Science, 2022 - science.org",Cited by 280
+264,"Machine Learning, Deep Learning and Statistical Analysis for forecasting building energy consumption—A systematic review","M Khalil, AS McGough, Z Pourmirza… - … Applications of Artificial …, 2022 - Elsevier",Cited by 122
+265,From prediction to design: recent advances in machine learning for the study of 2D materials,"H He, Y Wang, Y Qi, Z Xu, Y Li, Y Wang - Nano Energy, 2023 - Elsevier",Cited by 19
+266,Machine learning and artificial intelligence in research and healthcare,"L Rubinger, A Gazendam, S Ekhtiari, M Bhandari - Injury, 2023 - Elsevier",Cited by 85
+267,Sustainability and Optimization of Green and Lean Manufacturing Processes Using Machine Learning Techniques,"RB Ingle, S Swathi, G Mahendran… - … for Sustainability in …, 2023 - igi-global.com",Cited by 53
+268,Machine learning in biohydrogen production: a review,"A Alagumalai, B Devarajan, H Song… - Biofuel Research …, 2023 - biofueljournal.com",Cited by 25
+269,Machine learning methods in weather and climate applications: A survey,"L Chen, B Han, X Wang, J Zhao, W Yang, Z Yang - Applied Sciences, 2023 - mdpi.com",Cited by 37
+270,[HTML][HTML] Chronic kidney disease prediction based on machine learning algorithms,"MA Islam, MZH Majumder, MA Hussein - Journal of pathology informatics, 2023 - Elsevier",Cited by 99
+271,When not to use machine learning: A perspective on potential and limitations,"MR Carbone - MRS Bulletin, 2022 - Springer",Cited by 40
+272,[PDF][PDF] Secure and Private AI: Implementing Advanced Data Protection Techniques in Machine Learning Models,"AKY Yanamala - International Journal of Machine Learning Research …, 2023 - ijmlrcai.com",Cited by 73
+273,Human–machine teaming is key to AI adoption: clinicians' experiences with a deployed machine learning system,"KE Henry, R Kornfield, A Sridharan, RC Linton… - NPJ digital …, 2022 - nature.com",Cited by 102
+274,Physics-informed machine learning for reliability and systems safety applications: State of the art and challenges,"Y Xu, S Kohtz, J Boakye, P Gardoni, P Wang - Reliability Engineering & …, 2023 - Elsevier",Cited by 155
+275,Exploring QCD matter in extreme conditions with Machine Learning,"K Zhou, L Wang, LG Pang, S Shi - Progress in Particle and Nuclear Physics, 2023 - Elsevier",Cited by 41
+276,High-energy nuclear physics meets machine learning,"WB He, YG Ma, LG Pang, HC Song, K Zhou - Nuclear Science and …, 2023 - Springer",Cited by 51
+277,Learning Curves for Decision Making in Supervised Machine Learning--A Survey,"F Mohr, JN van Rijn - arXiv preprint arXiv:2201.12150, 2022 - arxiv.org",Cited by 63
+278,Machine learning and deep learning in energy systems: A review,"MM Forootan, I Larki, R Zahedi, A Ahmadi - Sustainability, 2022 - mdpi.com",Cited by 142
+279,[HTML][HTML] Interpretable machine learning for building energy management: A state-of-the-art review,"Z Chen, F Xiao, F Guo, J Yan - Advances in Applied Energy, 2023 - Elsevier",Cited by 136
+280,The vendi score: A diversity evaluation metric for machine learning,"D Dan Friedman, AB Dieng - Transactions on machine learning …, 2023 - par.nsf.gov",Cited by 53
+281,[PDF][PDF] Machine learning software for optimizing SME social media marketing campaigns,"WE Kedi, C Ejimuda, C Idemudia… - Computer Science & IT …, 2024 - researchgate.net",Cited by 28
+282,[PDF][PDF] Adaptive optics based on machine learning: a review,"Y Guo, L Zhong, L Min, J Wang, Y Wu… - Opto-Electronic …, 2022 - researching.cn",Cited by 104
+283,MRI-based brain tumor detection using convolutional deep learning methods and chosen machine learning techniques,"S Saeedi, S Rezayi, H Keshavarz… - BMC Medical Informatics …, 2023 - Springer",Cited by 179
+284,Machine learning in agriculture: a review of crop management applications,"I Attri, LK Awasthi, TP Sharma - Multimedia Tools and Applications, 2024 - Springer",Cited by 34
+285,Application of machine learning optimization in cloud computing resource scheduling and management,"Y Zhang, B Liu, Y Gong, J Huang, J Xu… - Proceedings of the 5th …, 2024 - dl.acm.org",Cited by 56
+286,A comprehensive survey on feature selection in the various fields of machine learning,"P Dhal, C Azad - Applied Intelligence, 2022 - Springer",Cited by 288
+287,"A mini-review of machine learning in big data analytics: Applications, challenges, and prospects","IK Nti, JA Quarcoo, J Aning… - Big Data Mining and …, 2022 - ieeexplore.ieee.org",Cited by 105
+288,[HTML][HTML] Quantum machine learning beyond kernel methods,"S Jerbi, LJ Fiderer, H Poulsen Nautrup… - Nature …, 2023 - nature.com",Cited by 149
+289,Machine learning model sizes and the parameter gap,"P Villalobos, J Sevilla, T Besiroglu, L Heim… - arXiv preprint arXiv …, 2022 - arxiv.org",Cited by 58
+290,Using Machine Learning and Data Mining to Evaluate Modern Financial Management Techniques,"A Al Ayub Ahmed, S Rajesh, S Lohana, S Ray… - Proceedings of Second …, 2022 - Springer",Cited by 72
+291,"A systematic review and meta-analysis of machine learning, deep learning, and ensemble learning approaches in predicting EV charging behavior","E Yaghoubi, E Yaghoubi, A Khamees, D Razmi… - … Applications of Artificial …, 2024 - Elsevier",Cited by 8
+292,Machine-learning-driven accelerated design-method for meta-devices,"S Ijaz, S Noureen, B Rehman, O Aldaghri… - Materials Today …, 2023 - Elsevier",Cited by 23
+293,Forecasting renewable energy generation with machine learning and deep learning: Current advances and future prospects,"NE Benti, MD Chaka, AG Semie - Sustainability, 2023 - mdpi.com",Cited by 66
+294,[PDF][PDF] Big Data: the Fuel for Machine Learning and AI Advancement,"F Tahir, M Khan - 2023 - easychair.org",Cited by 130
+295,Sustainable energies and machine learning: An organized review of recent applications and challenges,"P Ifaei, M Nazari-Heris, AST Charmchi, S Asadi… - Energy, 2023 - Elsevier",Cited by 44
+296,Mitigating bias in radiology machine learning: 1. Data handling,"P Rouzrokh, B Khosravi, S Faghani… - Radiology: Artificial …, 2022 - pubs.rsna.org",Cited by 83
+297,The role of natural resources in the management of environmental sustainability: Machine learning approach,"A Rao, A Talan, S Abbas, D Dev, F Taghizadeh-Hesary - Resources Policy, 2023 - Elsevier",Cited by 39
+298,Credit card fraud detection using state-of-the-art machine learning and deep learning algorithms,"FK Alarfaj, I Malik, HU Khan, N Almusallam… - IEEE …, 2022 - ieeexplore.ieee.org",Cited by 178
+299,[BOOK][B] Random matrix methods for machine learning,"R Couillet, Z Liao - 2022 - books.google.com",Cited by 70
+300,"Forecasting of crop yield using remote sensing data, agrarian factors and machine learning approaches","JP Bharadiya, NT Tzenios… - Journal of Engineering …, 2023 - classical.goforpromo.com",Cited by 197
+301,Machine learning at the service of meta-heuristics for solving combinatorial optimization problems: A state-of-the-art,"M Karimi-Mamaghan, M Mohammadi, P Meyer… - European Journal of …, 2022 - Elsevier",Cited by 307
+302,[BOOK][B] Metalearning: applications to automated machine learning and data mining,"P Brazdil, JN Van Rijn, C Soares, J Vanschoren - 2022 - library.oapen.org",Cited by 65
+303,Machine learning for chemical reactivity: the importance of failed experiments,"F Strieth‐Kalthoff, F Sandfort… - Angewandte Chemie …, 2022 - Wiley Online Library",Cited by 107
+304,[HTML][HTML] Perspectives in machine learning for wildlife conservation,"D Tuia, B Kellenberger, S Beery, BR Costelloe… - Nature …, 2022 - nature.com",Cited by 410
+305,Sepsis biomarkers and diagnostic tools with a focus on machine learning,"M Komorowski, A Green, KC Tatham, C Seymour… - …, 2022 - thelancet.com",Cited by 61
+306,Network-based machine learning approach to predict immunotherapy response in cancer patients,"JH Kong, D Ha, J Lee, I Kim, M Park, SH Im… - Nature …, 2022 - nature.com",Cited by 102
+307,The effects of data quality on machine learning performance,"L Budach, M Feuerpfeil, N Ihde, A Nathansen… - arXiv preprint arXiv …, 2022 - arxiv.org",Cited by 115
+308,Leaf disease detection using machine learning and deep learning: Review and challenges,"C Sarkar, D Gupta, U Gupta, BB Hazarika - Applied Soft Computing, 2023 - Elsevier",Cited by 68
+309,SEM-machine learning-based model for perusing the adoption of metaverse in higher education in UAE,"A Aburayya, S Salloum, K Alderbashi… - … Journal of Data and …, 2023 - growingscience.com",Cited by 93
+310,Machine learning in nuclear physics at low and intermediate energies,"W He, Q Li, Y Ma, Z Niu, J Pei, Y Zhang - Science China Physics …, 2023 - Springer",Cited by 60
+311,Applications of machine learning techniques for enhancing nondestructive food quality and safety detection,"Y Lin, J Ma, Q Wang, DW Sun - Critical Reviews in Food Science …, 2023 - Taylor & Francis",Cited by 70
+312,"Review on machine learning-based bioprocess optimization, monitoring, and control systems","PP Mondal, A Galodha, VK Verma, V Singh… - Bioresource …, 2023 - Elsevier",Cited by 60
+313,Machine learning–assisted design of material properties,"S Kadulkar, ZM Sherman, V Ganesan… - Annual Review of …, 2022 - annualreviews.org",Cited by 32
+314,"Machine learning applications in river research: Trends, opportunities and challenges","L Ho, P Goethals - Methods in Ecology and Evolution, 2022 - Wiley Online Library",Cited by 22
+315,"Why black box machine learning should be avoided for high-stakes decisions, in brief","C Rudin - Nature Reviews Methods Primers, 2022 - nature.com",Cited by 49
+316,NetKet 3: Machine learning toolbox for many-body quantum systems,"F Vicentini, D Hofmann, A Szabó, D Wu… - SciPost Physics …, 2022 - scipost.org",Cited by 101
+317,Multimodal machine learning in precision health: A scoping review,"A Kline, H Wang, Y Li, S Dennis, M Hutch, Z Xu… - npj Digital …, 2022 - nature.com",Cited by 157
+318,From distributed machine learning to federated learning: A survey,"J Liu, J Huang, Y Zhou, X Li, S Ji, H Xiong… - … and Information Systems, 2022 - Springer",Cited by 235
+319,Integration of knowledge and data in machine learning,"Y Chen, D Zhang - arXiv preprint arXiv:2202.10337, 2022 - arxiv.org",Cited by 43
+320,Artificial intelligence and machine learning technology driven modern drug discovery and development,"C Sarkar, B Das, VS Rawat, JB Wahlang… - International Journal of …, 2023 - mdpi.com",Cited by 110
+321,[HTML][HTML] Human–robot collaboration and machine learning: A systematic review of recent research,"F Semeraro, A Griffiths, A Cangelosi - Robotics and Computer-Integrated …, 2023 - Elsevier",Cited by 158
+322,Customer churn prediction system: a machine learning approach,"P Lalwani, MK Mishra, JS Chadha, P Sethi - Computing, 2022 - Springer",Cited by 265
+323,Machine learning for healthcare wearable devices: the big picture,"F Sabry, T Eltaras, W Labda, K Alzoubi… - Journal of Healthcare …, 2022 - Wiley Online Library",Cited by 167
+324,Using machine learning to predict complications in pregnancy: a systematic review,"A Bertini, R Salas, S Chabert, L Sobrevia… - … in bioengineering and …, 2022 - frontiersin.org",Cited by 73
+325,Quantum machine learning for chemistry and physics,"M Sajjan, J Li, R Selvarajan, SH Sureshbabu… - Chemical Society …, 2022 - pubs.rsc.org",Cited by 91
+326,Machine learning algorithms for efficient water quality prediction,"M Azrour, J Mabrouki, G Fattah, A Guezzaz… - Modeling Earth Systems …, 2022 - Springer",Cited by 114
+327,Multiple disease prediction using Machine learning algorithms,"K Arumugam, M Naved, PP Shinde… - Materials Today …, 2023 - Elsevier",Cited by 134
+328,Air pollution prediction with machine learning: a case study of Indian cities,"K Kumar, BP Pande - International Journal of Environmental Science and …, 2023 - Springer",Cited by 147
+329,On the analyses of medical images using traditional machine learning techniques and convolutional neural networks,"S Iqbal, A N. Qureshi, J Li, T Mahmood - Archives of Computational …, 2023 - Springer",Cited by 71
+330,Supervised machine learning and associated algorithms: applications in orthopedic surgery,"JA Pruneski, A Pareek, KN Kunze, RK Martin… - Knee Surgery, Sports …, 2023 - Springer",Cited by 35
+331,Tackling prediction uncertainty in machine learning for healthcare,"M Chua, D Kim, J Choi, NG Lee… - Nature Biomedical …, 2023 - nature.com",Cited by 43
+332,Predicting agriculture yields based on machine learning using regression and deep learning,"P Sharma, P Dadheech, N Aneja, S Aneja - IEEE Access, 2023 - ieeexplore.ieee.org",Cited by 34
+333,Machine learning on small size samples: A synthetic knowledge synthesis,"P Kokol, M Kokol, S Zagoranski - Science Progress, 2022 - journals.sagepub.com",Cited by 146
+334,Cellular traffic prediction with machine learning: A survey,"W Jiang - Expert Systems with Applications, 2022 - Elsevier",Cited by 96
+335,[HTML][HTML] Adaptive machine learning for protein engineering,"BL Hie, KK Yang - Current opinion in structural biology, 2022 - Elsevier",Cited by 85
+336,Part of speech tagging: a systematic review of deep learning and machine learning approaches,"A Chiche, B Yitagesu - Journal of Big Data, 2022 - Springer",Cited by 187
+337,Group-invariant quantum machine learning,"M Larocca, F Sauvage, FM Sbahi, G Verdon, PJ Coles… - PRX Quantum, 2022 - APS",Cited by 135
+338,[HTML][HTML] Knowledge graphs as tools for explainable machine learning: A survey,"I Tiddi, S Schlobach - Artificial Intelligence, 2022 - Elsevier",Cited by 217
+339,Will we run out of data? an analysis of the limits of scaling datasets in machine learning,"P Villalobos, J Sevilla, L Heim, T Besiroglu… - arXiv preprint arXiv …, 2022 - arxiv.org",Cited by 142
+340,[HTML][HTML] Plant leaf disease detection using computer vision and machine learning algorithms,"SS Harakannanavar, JM Rudagi… - Global Transitions …, 2022 - Elsevier",Cited by 254
+341,Predicting Fetal Health using Cardiotocograms: A Machine Learning Approach,"RR Dixit - Journal of Advanced Analytics in Healthcare …, 2022 - research.tensorgate.org",Cited by 52
+342,[Retracted] A Novel Diabetes Healthcare Disease Prediction Framework Using Machine Learning Techniques,"R Krishnamoorthi, S Joshi… - Journal of healthcare …, 2022 - Wiley Online Library",Cited by 204
+343,A robust chronic kidney disease classifier using machine learning,"D Swain, U Mehta, A Bhatt, H Patel, K Patel, D Mehta… - Electronics, 2023 - mdpi.com",Cited by 47
+344,Machine learning-based heart disease diagnosis: A systematic literature review,"MM Ahsan, Z Siddique - Artificial Intelligence in Medicine, 2022 - Elsevier",Cited by 254
+345,Machine learning advances in microbiology: A review of methods and applications,"Y Jiang, J Luo, D Huang, Y Liu, D Li - Frontiers in Microbiology, 2022 - frontiersin.org",Cited by 36
+346,Toward a sociology of machine learning explainability: Human–machine interaction in deep neural network-based automated trading,"C Borch, B Hee Min - Big Data & Society, 2022 - journals.sagepub.com",Cited by 43
+347,Exposing the limitations of molecular machine learning with activity cliffs,"D Van Tilborg, A Alenicheva… - Journal of chemical …, 2022 - ACS Publications",Cited by 122
+348,A comparative study of different machine learning methods for reservoir landslide displacement prediction,"Y Wang, H Tang, J Huang, T Wen, J Ma, J Zhang - Engineering Geology, 2022 - Elsevier",Cited by 115
+349,Climate-invariant machine learning,"T Beucler, P Gentine, J Yuval, A Gupta, L Peng… - Science …, 2024 - science.org",Cited by 50
+350,"CheckM2: a rapid, scalable and accurate tool for assessing microbial genome quality using machine learning","A Chklovski, DH Parks, BJ Woodcroft, GW Tyson - Nature Methods, 2023 - nature.com",Cited by 263
+351,[HTML][HTML] Maximizing information from chemical engineering data sets: Applications to machine learning,"A Thebelt, J Wiebe, J Kronqvist, C Tsay… - Chemical Engineering …, 2022 - Elsevier",Cited by 60
+352,"Machine learning for the discovery, design, and engineering of materials","C Duan, A Nandy, HJ Kulik - Annual Review of Chemical and …, 2022 - annualreviews.org",Cited by 30
+353,Chemical reaction networks and opportunities for machine learning,"M Wen, EWC Spotte-Smith, SM Blau… - Nature Computational …, 2023 - nature.com",Cited by 59
+354,Machine learning and deep learning for sentiment analysis across languages: A survey,"EM Mercha, H Benbrahim - Neurocomputing, 2023 - Elsevier",Cited by 58
+355,Exploring machine learning: a scientometrics approach using bibliometrix and VOSviewer,"DO Oyewola, EG Dada - SN Applied Sciences, 2022 - Springer",Cited by 105
+356,Is quantum advantage the right goal for quantum machine learning?,"M Schuld, N Killoran - Prx Quantum, 2022 - APS",Cited by 156
+357,Bias mitigation for machine learning classifiers: A comprehensive survey,"M Hort, Z Chen, JM Zhang, M Harman… - ACM Journal on …, 2024 - dl.acm.org",Cited by 108
+358,Machine learning for dementia prediction: a systematic review and future research directions,"A Javeed, AL Dallora, JS Berglund, A Ali, L Ali… - Journal of medical …, 2023 - Springer",Cited by 61
+359,Recent developments in causal inference and machine learning,"JE Brand, X Zhou, Y Xie - Annual Review of Sociology, 2023 - annualreviews.org",Cited by 26
+360,Truth serum: Poisoning machine learning models to reveal their secrets,"F Tramèr, R Shokri, A San Joaquin, H Le… - Proceedings of the …, 2022 - dl.acm.org",Cited by 105
+361,Operationalizing machine learning: An interview study,"S Shankar, R Garcia, JM Hellerstein… - arXiv preprint arXiv …, 2022 - arxiv.org",Cited by 57
+362,Machine learning model towards evaluating data gathering methods in manufacturing and mechanical engineering,"M Amini, K Sharifani, A Rahmani - International Journal of Applied …, 2023 - papers.ssrn.com",Cited by 124
+363,Machine learning integrated design for additive manufacturing,"J Jiang, Y Xiong, Z Zhang, DW Rosen - Journal of Intelligent …, 2022 - Springer",Cited by 195
+364,[PDF][PDF] Diabetes Risk Assessment Using Machine Learning: A Comparative Study of Classification Algorithms,"CK Suryadevara - IEJRD-International Multidisciplinary Journal, 2023 - researchgate.net",Cited by 33
+365,[PDF][PDF] Artificial Intelligence and Machine Learning: The Impact of Machine Learning on Predictive Analytics in Healthcare,"H Rehan - Innovative Computer Sciences Journal, 2023 - researchgate.net",Cited by 46
+366,A review of data-driven machinery fault diagnosis using machine learning algorithms,"J Cen, Z Yang, X Liu, J Xiong, H Chen - Journal of Vibration Engineering & …, 2022 - Springer",Cited by 75
+367,[HTML][HTML] Empirical method for thyroid disease classification using a machine learning approach,"T Alyas, M Hamid, K Alissa, T Faiz… - BioMed Research …, 2022 - ncbi.nlm.nih.gov",Cited by 73
+368,[HTML][HTML] Rainfall prediction: A comparative analysis of modern machine learning algorithms for time-series forecasting,"AY Barrera-Animas, LO Oyedele, M Bilal… - Machine Learning with …, 2022 - Elsevier",Cited by 204
+369,Exploring catalytic reaction networks with machine learning,"JT Margraf, H Jung, C Scheurer, K Reuter - Nature Catalysis, 2023 - nature.com",Cited by 61
+370,[BOOK][B] Applications of machine learning and deep learning on biological data,"F Masoodi, M Quasim, S Bukhari, S Dixit, S Alam - 2023 - books.google.com",Cited by 27
+371,Quantum Machine Learning: Scope for real-world problems,"A Jadhav, A Rasool, M Gyanchandani - Procedia Computer Science, 2023 - Elsevier",Cited by 34
+372,Machine learning for detection and prediction of crop diseases and pests: A comprehensive survey,"T Domingues, T Brandão, JC Ferreira - Agriculture, 2022 - mdpi.com",Cited by 103
+373,Identifying disease and diagnosis in females using machine learning,"S Pramanik, SK Bandyopadhyay - … Science and Machine Learning, 2023 - igi-global.com",Cited by 33
+374,Integrated sensing and communication for 6G: Ten key machine learning roles,"U Demirhan, A Alkhateeb - IEEE Communications Magazine, 2023 - ieeexplore.ieee.org",Cited by 76
+375,MAGUS: machine learning and graph theory assisted universal structure searcher,"J Wang, H Gao, Y Han, C Ding, S Pan… - National Science …, 2023 - academic.oup.com",Cited by 35
+376,Attacks on machine learning systems-common problems and methods,"E Ilyushin, D Namiot, I Chizhov - International Journal of Open Information …, 2022 - injoit.org",Cited by 45
+377,Statistical and machine learning methods for spatially resolved transcriptomics data analysis,"Z Zeng, Y Li, Y Li, Y Luo - Genome biology, 2022 - Springer",Cited by 116
+378,Machine learning for intelligent energy consumption in smart homes,"A Alzoubi - International Journal of Computations, Information …, 2022 - journals.gaftim.com",Cited by 182
+379,[HTML][HTML] Soft electronics for health monitoring assisted by machine learning,"Y Qiao, J Luo, T Cui, H Liu, H Tang, Y Zeng, C Liu… - Nano-Micro Letters, 2023 - Springer",Cited by 50
+380,Using machine learning in photovoltaics to create smarter and cleaner energy generation systems: A comprehensive review,"A Sohani, H Sayyaadi, C Cornaro… - Journal of Cleaner …, 2022 - Elsevier",Cited by 59
+381,ktrain: A low-code library for augmented machine learning,"AS Maiya - Journal of Machine Learning Research, 2022 - jmlr.org",Cited by 168
+382,Machine learning and artificial intelligence use in marketing: a general taxonomy,"A De Mauro, A Sestino, A Bacconi - Italian Journal of Marketing, 2022 - Springer",Cited by 66
+383,"Modeling, diagnostics, optimization, and control of internal combustion engines via modern machine learning techniques: A review and future directions","M Aliramezani, CR Koch, M Shahbakhti - Progress in Energy and …, 2022 - Elsevier",Cited by 179
+384,[HTML][HTML] A survey of machine learning in kidney disease diagnosis,"J Qezelbash-Chamak, S Badamchizadeh… - Machine Learning with …, 2022 - Elsevier",Cited by 29
+385,Reimagining multi-criterion decision making by data-driven methods based on machine learning: A literature review,"H Liao, Y He, X Wu, Z Wu, R Bausys - Information Fusion, 2023 - Elsevier",Cited by 28
+386,Recent advances in machine learning for fiber optic sensor applications,"A Venketeswaran, N Lalam… - Advanced Intelligent …, 2022 - Wiley Online Library",Cited by 147
+387,Twenty years of machine-learning-based text classification: A systematic review,"A Palanivinayagam, CZ El-Bayeh, R Damaševičius - Algorithms, 2023 - mdpi.com",Cited by 38
+388,[HTML][HTML] How machine learning informs ride-hailing services: A survey,"Y Liu, R Jia, J Ye, X Qu - Communications in Transportation Research, 2022 - Elsevier",Cited by 87
+389,A survey for solving mixed integer programming via machine learning,"J Zhang, C Liu, X Li, HL Zhen, M Yuan, Y Li, J Yan - Neurocomputing, 2023 - Elsevier",Cited by 62
+390,Machine learning-based methods in structural reliability analysis: A review,"SS Afshari, F Enayatollahi, X Xu, X Liang - Reliability Engineering & System …, 2022 - Elsevier",Cited by 221
+391,Machine learning algorithms to forecast air quality: a survey,"M Méndez, MG Merayo, M Núñez - Artificial Intelligence Review, 2023 - Springer",Cited by 121
+392,[HTML][HTML] Smart farming using machine learning and deep learning techniques,"SKS Durai, MD Shamili - Decision Analytics Journal, 2022 - Elsevier",Cited by 122
+393,The state of art on the prediction of efficiency and modeling of the processes of pollutants removal based on machine learning,"N Taoufik, W Boumya, M Achak, H Chennouk… - Science of the Total …, 2022 - Elsevier",Cited by 90
+394,Towards the next generation of machine learning models in additive manufacturing: A review of process dependent material evolution,"M Parsazadeh, S Sharma, N Dahotre - Progress in Materials Science, 2023 - Elsevier",Cited by 48
+395,Predicting preeminent Machine Learning Approach on Stars,"S Manna, V Jalodia, K Kumar, V Tripathi… - 2022 2nd …, 2022 - ieeexplore.ieee.org",Cited by 39
+396,Dequantizing algorithms to understand quantum advantage in machine learning,"E Tang - Nature Reviews Physics, 2022 - nature.com",Cited by 24
+397,A comprehensive review of machine learning algorithms and their application in geriatric medicine: present and future,"RJ Woodman, AA Mangoni - Aging Clinical and Experimental Research, 2023 - Springer",Cited by 38
+398,[HTML][HTML] Opening the black box: the promise and limitations of explainable machine learning in cardiology,"J Petch, S Di, W Nelson - Canadian Journal of Cardiology, 2022 - Elsevier",Cited by 353
+399,Machine learning in cybersecurity: a comprehensive survey,"D Dasgupta, Z Akhtar, S Sen - The Journal of Defense …, 2022 - journals.sagepub.com",Cited by 215
+400,Bias in machine learning models can be significantly mitigated by careful training: Evidence from neuroimaging studies,"R Wang, P Chaudhari… - Proceedings of the …, 2023 - National Acad Sciences",Cited by 64
+401,Machine learning and AI technologies for smart wearables,"KP Seng, LM Ang, E Peter, A Mmonyi - Electronics, 2023 - mdpi.com",Cited by 27
+402,Intrusion detection system using feature extraction with machine learning algorithms in IoT,"D Musleh, M Alotaibi, F Alhaidari, A Rahman… - Journal of Sensor and …, 2023 - mdpi.com",Cited by 57
+403,[HTML][HTML] A pipeline and comparative study of 12 machine learning models for text classification,"A Occhipinti, L Rogers, C Angione - Expert Systems with Applications, 2022 - Elsevier",Cited by 49
+404,Beyond generalization: a theory of robustness in machine learning,"T Freiesleben, T Grote - Synthese, 2023 - Springer",Cited by 28
+405,Machine learning predicts and optimizes hydrothermal liquefaction of biomass,"A Shafizadeh, H Shahbeig, MH Nadian, H Mobli… - Chemical Engineering …, 2022 - Elsevier",Cited by 103
+406,Application of machine learning algorithms in hydrology,"H Mosaffa, M Sadeghi, I Mallakpour… - Computers in earth and …, 2022 - Elsevier",Cited by 47
+407,Precision irrigation management using machine learning and digital farming solutions,"EA Abioye, O Hensel, TJ Esau, O Elijah, MSZ Abidin… - AgriEngineering, 2022 - mdpi.com",Cited by 161
+408,Explaining machine learning models with interactive natural language conversations using TalkToModel,"D Slack, S Krishna, H Lakkaraju, S Singh - Nature Machine Intelligence, 2023 - nature.com",Cited by 48
+409,A comparative study on student performance prediction using machine learning,"Y Chen, L Zhai - Education and Information Technologies, 2023 - Springer",Cited by 37
+410,A survey of the opportunities and challenges of supervised machine learning in maritime risk analysis,"A Rawson, M Brito - Transport Reviews, 2023 - Taylor & Francis",Cited by 70
+411,HealthGuard: An intelligent healthcare system security framework based on machine learning,"A Sundas, S Badotra, S Bharany, A Almogren… - Sustainability, 2022 - mdpi.com",Cited by 32
+412,A method for improving prediction of human heart disease using machine learning algorithms,"A Saboor, M Usman, S Ali, A Samad… - Mobile Information …, 2022 - Wiley Online Library",Cited by 105
+413,"Advances in computational intelligence of polymer composite materials: machine learning assisted modeling, analysis and design","A Sharma, T Mukhopadhyay, SM Rangappa… - … Methods in Engineering, 2022 - Springer",Cited by 141
+414,"[HTML][HTML] The classification method study of crops remote sensing with deep learning, machine learning, and Google Earth engine","J Yao, J Wu, C Xiao, Z Zhang, J Li - Remote Sensing, 2022 - mdpi.com",Cited by 49
+415,Molecular representations for machine learning applications in chemistry,"S Raghunathan, UD Priyakumar - International Journal of …, 2022 - Wiley Online Library",Cited by 54
+416,Technology readiness levels for machine learning systems,"A Lavin, CM Gilligan-Lee, A Visnjic, S Ganju… - Nature …, 2022 - nature.com",Cited by 111
+417,Quantum machine learning—an overview,"KA Tychola, T Kalampokas, GA Papakostas - Electronics, 2023 - mdpi.com",Cited by 32
+418,Advances in application of machine learning to life cycle assessment: a literature review,"A Ghoroghi, Y Rezgui, I Petri, T Beach - The International Journal of Life …, 2022 - Springer",Cited by 74
+419,Secure preschool education using machine learning and metaverse technologies,"Q Zhang - Applied Artificial Intelligence, 2023 - Taylor & Francis",Cited by 29
+420,Translating promise into practice: a review of machine learning in suicide research and prevention,"OJ Kirtley, K van Mens, M Hoogendoorn… - The Lancet …, 2022 - thelancet.com",Cited by 45
+421,"Machine learning and artificial intelligence in disease prediction: Applications, challenges, limitations, case studies, and future directions","K Ramudu, VM Mohan, D Jyothirmai… - … Applications of Data …, 2023 - igi-global.com",Cited by 92
+422,Trends in vision-based machine learning techniques for plant disease identification: A systematic review,"PS Thakur, P Khanna, T Sheorey, A Ojha - Expert Systems with …, 2022 - Elsevier",Cited by 120
+423,"Comprehensive review of machine learning in geotechnical reliability analysis: Algorithms, applications and further challenges","W Zhang, X Gu, L Hong, L Han, L Wang - Applied Soft Computing, 2023 - Elsevier",Cited by 63
+424,Machine learning in sports science: challenges and opportunities,"C Richter, M O'Reilly, E Delahunt - Sports Biomechanics, 2024 - Taylor & Francis",Cited by 52
+425,A critical review on diagnosis of diabetic retinopathy using machine learning and deep learning,"D Das, SK Biswas, S Bandyopadhyay - Multimedia Tools and Applications, 2022 - Springer",Cited by 91
+426,Machine learning techniques for breast cancer prediction,"V Nemade, V Fegade - Procedia Computer Science, 2023 - Elsevier",Cited by 42
+427,[PDF][PDF] Machine Learning for Modeling and Control of Industrial Clarifier Process.,"M Rajalakshmi, V Saravanan… - … Automation & Soft …, 2022 - researchgate.net",Cited by 95
+428,Enhancing the prediction of student performance based on the machine learning XGBoost algorithm,"A Asselman, M Khaldi, S Aammou - Interactive Learning …, 2023 - Taylor & Francis",Cited by 184
+429,"A comprehensive review on machine learning in healthcare industry: classification, restrictions, opportunities and challenges","Q An, S Rahman, J Zhou, JJ Kang - Sensors, 2023 - mdpi.com",Cited by 88
+430,"Internet of things (iot) security intelligence: a comprehensive overview, machine learning solutions and research directions","IH Sarker, AI Khan, YB Abushark, F Alsolami - Mobile Networks and …, 2023 - Springer",Cited by 277
+431,Application of machine learning algorithms in municipal solid waste management: A mini review,"W Xia, Y Jiang, X Chen, R Zhao - Waste Management & …, 2022 - journals.sagepub.com",Cited by 139
+432,The role of machine learning and deep learning approaches for the detection of skin cancer,"T Mazhar, I Haq, A Ditta, SAH Mohsan, F Rehman… - Healthcare, 2023 - mdpi.com",Cited by 62
+433,Graph data augmentation for graph machine learning: A survey,"T Zhao, W Jin, Y Liu, Y Wang, G Liu… - arXiv preprint arXiv …, 2022 - arxiv.org",Cited by 103
+434,A new solution for cyber security in big data using machine learning approach,"R Rawat, OA Oki, KS Sankaran, O Olasupo… - Mobile Computing and …, 2023 - Springer",Cited by 52
+435,Taxonomy of machine learning paradigms: A data‐centric perspective,"F Emmert‐Streib, M Dehmer - Wiley Interdisciplinary Reviews …, 2022 - Wiley Online Library",Cited by 33
+436,Review on interpretable machine learning in smart grid,"C Xu, Z Liao, C Li, X Zhou, R Xie - Energies, 2022 - mdpi.com",Cited by 49
+437,Machine learning hidden symmetries,"Z Liu, M Tegmark - Physical Review Letters, 2022 - APS",Cited by 58
+438,A review and comparative study of cancer detection using machine learning: SBERT and SimCSE application,"M Mokoatle, V Marivate, D Mapiye, R Bornman… - BMC …, 2023 - Springer",Cited by 25
+439,[HTML][HTML] Prediction of breast cancer using machine learning approaches,"R Rabiei, SM Ayyoubzadeh, S Sohrabei… - Journal of biomedical …, 2022 - ncbi.nlm.nih.gov",Cited by 77
+440,Combining machine learning and semantic web: A systematic mapping study,"A Breit, L Waltersdorfer, FJ Ekaputra, M Sabou… - ACM Computing …, 2023 - dl.acm.org",Cited by 53
+441,[PDF][PDF] A machine learning model for skin disease classification using convolution neural network,"VR Allugunti - … Journal of Computing, Programming and Database …, 2022 - researchgate.net",Cited by 221
+442,Machine learning-based marker for coronary artery disease: derivation and validation in two longitudinal cohorts,"IS Forrest, BO Petrazzini, Á Duffy, JK Park… - The Lancet, 2023 - thelancet.com",Cited by 81
+443,[HTML][HTML] Machine learning for polymer composites process simulation–a review,"S Cassola, M Duhovic, T Schmidt, D May - Composites Part B: Engineering, 2022 - Elsevier",Cited by 52
+444,Dynamic resource allocation for virtual machine migration optimization using machine learning,"Y Gong, J Huang, B Liu, J Xu, B Wu… - arXiv preprint arXiv …, 2024 - arxiv.org",Cited by 32
+445,Edge computing with artificial intelligence: A machine learning perspective,"H Hua, Y Li, T Wang, N Dong, W Li, J Cao - ACM Computing Surveys, 2023 - dl.acm.org",Cited by 213
+446,Forecasting of solar radiation using different machine learning approaches,"V Demir, H Citakoglu - Neural Computing and Applications, 2023 - Springer",Cited by 75
+447,[HTML][HTML] An approach towards the implementation of a reliable resilience model based on machine learning,"T Vairo, M Pettinato, AP Reverberi, MF Milazzo… - Process Safety and …, 2023 - Elsevier",Cited by 25
+448,Prediction of loan behaviour with machine learning models for secure banking,"M Anand, A Velu, P Whig - Journal of Computer Science and …, 2022 - icsejournal.com",Cited by 102
+449,Integrating scientific knowledge with machine learning for engineering and environmental systems,"J Willard, X Jia, S Xu, M Steinbach, V Kumar - ACM Computing Surveys, 2022 - dl.acm.org",Cited by 398
+450,Membership inference attacks on machine learning: A survey,"H Hu, Z Salcic, L Sun, G Dobbie, PS Yu… - ACM Computing Surveys …, 2022 - dl.acm.org",Cited by 440
+451,A review of the machine learning algorithms for COVID-19 case analysis,"S Tiwari, P Chanak, SK Singh - IEEE Transactions on Artificial …, 2022 - ieeexplore.ieee.org",Cited by 52
+452,Effective heart disease prediction using machine learning techniques,"CM Bhatt, P Patel, T Ghetia, PL Mazzeo - Algorithms, 2023 - mdpi.com",Cited by 177
+453,[HTML][HTML] Machine learning-based automatic control of tunneling posture of shield machine,"H Huang, J Chang, D Zhang, J Zhang, H Wu… - Journal of Rock …, 2022 - Elsevier",Cited by 55
+454,Review of machine learning techniques for EEG based brain computer interface,"S Aggarwal, N Chugh - Archives of Computational Methods in …, 2022 - Springer",Cited by 180
+455,[HTML][HTML] Flood forecasting with machine learning models in an operational framework,"S Nevo, E Morin, A Gerzi Rosenthal… - Hydrology and Earth …, 2022 - hess.copernicus.org",Cited by 110
+456,Predicting individual learning performance using machine‐learning hybridized with the teaching‐learning‐based optimization,"M Arashpour, EM Golafshani… - Computer …, 2023 - Wiley Online Library",Cited by 44
+457,Hybrid model for detection of cervical cancer using causal analysis and machine learning techniques,"UK Lilhore, M Poongodi, A Kaur… - … Methods in Medicine, 2022 - Wiley Online Library",Cited by 157
+458,Assessing credit risk of commercial customers using hybrid machine learning algorithms,"MR Machado, S Karray - Expert Systems with Applications, 2022 - Elsevier",Cited by 71
+459,Reimagining the machine learning life cycle to improve educational outcomes of students,"LT Liu, S Wang, T Britton… - Proceedings of the …, 2023 - National Acad Sciences",Cited by 23
+460,[HTML][HTML] Precision agriculture using IoT data analytics and machine learning,"R Akhter, SA Sofi - Journal of King Saud University-Computer and …, 2022 - Elsevier",Cited by 355
+461,Applications of machine learning in perovskite materials,"Z Wang, M Yang, X Xie, C Yu, Q Jiang… - … Composites and Hybrid …, 2022 - Springer",Cited by 57
+462,Internet of things and machine learning-integrated smart robotics,"BU Maheswari, SS Imambi, D Hasan… - … on Robotics and …, 2023 - igi-global.com",Cited by 50
+463,[HTML][HTML] Fraud prediction using machine learning: The case of investment advisors in Canada,"ME Lokanan, K Sharma - Machine Learning with Applications, 2022 - Elsevier",Cited by 60
+464,Machine learning in crime prediction,"K Jenga, C Catal, G Kar - Journal of Ambient Intelligence and Humanized …, 2023 - Springer",Cited by 39
+465,[HTML][HTML] Landslide susceptibility mapping using machine learning: A literature survey,"M Ado, K Amitab, AK Maji, E Jasińska, R Gono… - Remote Sensing, 2022 - mdpi.com",Cited by 91
+466,Prediction of strength and analysis in self-compacting concrete using machine learning based regression techniques,"SA Rajakarunakaran, AR Lourdu, S Muthusamy… - … in Engineering Software, 2022 - Elsevier",Cited by 76
+467,Exploiting symmetry in variational quantum machine learning,"JJ Meyer, M Mularski, E Gil-Fuster, AA Mele, F Arzani… - PRX Quantum, 2023 - APS",Cited by 149
+468,Brain tumor detection and classification using machine learning: a comprehensive survey,"J Amin, M Sharif, A Haldorai, M Yasmin… - Complex & intelligent …, 2022 - Springer",Cited by 253
+469,[HTML][HTML] Prediction of the severity of marine accidents using improved machine learning,"Y Feng, X Wang, Q Chen, Z Yang, J Wang, H Li… - … Research Part E …, 2024 - Elsevier",Cited by 4
+470,Tuberculosis disease diagnosis based on an optimized machine learning model,"O Hrizi, K Gasmi, I Ben Ltaifa… - Journal of …, 2022 - Wiley Online Library",Cited by 78
+471,Machine learning in the detection and management of atrial fibrillation,"FK Wegner, L Plagwitz, F Doldi, C Ellermann… - Clinical Research in …, 2022 - Springer",Cited by 39
+472,Machine learning in scanning transmission electron microscopy,"SV Kalinin, C Ophus, PM Voyles, R Erni… - Nature Reviews …, 2022 - nature.com",Cited by 96
+473,Predicting is not understanding: Recognizing and addressing underspecification in machine learning,"D Teney, M Peyrard, E Abbasnejad - European Conference on Computer …, 2022 - Springer",Cited by 24
+474,A brief guide to machine learning for antibiotic discovery,"G Liu, JM Stokes - Current Opinion in Microbiology, 2022 - Elsevier",Cited by 18
+475,A review of recent advances and applications of machine learning in tribology,"AT Sose, SY Joshi, LK Kunche, F Wang… - Physical Chemistry …, 2023 - pubs.rsc.org",Cited by 27
+476,Super-resolution analysis via machine learning: a survey for fluid flows,"K Fukami, K Fukagata, K Taira - Theoretical and Computational Fluid …, 2023 - Springer",Cited by 71
+477,Quantum machine learning for image classification,"A Senokosov, A Sedykh, A Sagingalieva… - Machine Learning …, 2024 - iopscience.iop.org",Cited by 42
+478,"Application of machine learning, deep learning and optimization algorithms in geoengineering and geoscience: Comprehensive review and future challenge","W Zhang, X Gu, L Tang, Y Yin, D Liu, Y Zhang - Gondwana Research, 2022 - Elsevier",Cited by 198
+479,Machine learning techniques in emerging cloud computing integrated paradigms: A survey and taxonomy,"D Soni, N Kumar - Journal of Network and Computer Applications, 2022 - Elsevier",Cited by 72
+480,Detecting and analyzing suicidal ideation on social media using deep learning and machine learning models,"THH Aldhyani, SN Alsubari, AS Alshebami… - International journal of …, 2022 - mdpi.com",Cited by 67
+481,Matchmaker: Data drift mitigation in machine learning for large-scale systems,"A Mallick, K Hsieh, B Arzani… - … of Machine Learning and …, 2022 - proceedings.mlsys.org",Cited by 68
+482,Shear strength prediction of reinforced concrete beams using machine learning,"MS Sandeep, K Tiprak, S Kaewunruen, P Pheinsusom… - Structures, 2023 - Elsevier",Cited by 44
+483,[HTML][HTML] A machine learning method for the prediction of ship motion trajectories in real operational conditions,"M Zhang, P Kujala, M Musharraf, J Zhang, S Hirdaris - Ocean Engineering, 2023 - Elsevier",Cited by 60
+484,Persistent-homology-based machine learning: a survey and a comparative study,"CS Pun, SX Lee, K Xia - Artificial Intelligence Review, 2022 - Springer",Cited by 71
+485,[HTML][HTML] A comparative study of classification and prediction of Cardio-Vascular Diseases (CVD) using Machine Learning and Deep Learning techniques,"M Swathy, K Saruladha - ICT express, 2022 - Elsevier",Cited by 134
+486,Data management for machine learning: A survey,"C Chai, J Wang, Y Luo, Z Niu… - IEEE Transactions on …, 2022 - ieeexplore.ieee.org",Cited by 51
+487,"[HTML][HTML] 3D printing of biodegradable polymers and their composites–Current state-of-the-art, properties, applications, and machine learning for potential future …","SAV Dananjaya, VS Chevali, JP Dear, P Potluri… - Progress in Materials …, 2024 - Elsevier",Cited by 5
+488,[HTML][HTML] Leakage and the reproducibility crisis in machine-learning-based science,"S Kapoor, A Narayanan - Patterns, 2023 - cell.com",Cited by 160
+489,[HTML][HTML] Machine Learning for Advanced Emission Monitoring and Reduction Strategies in Fossil Fuel Power Plants,"Z Zuo, Y Niu, J Li, H Fu, M Zhou - Applied Sciences, 2024 - mdpi.com",Cited by 4
+490,[HTML][HTML] Renewable energy management in smart grids by using big data analytics and machine learning,"N Mostafa, HSM Ramadan, O Elfarouk - Machine Learning with …, 2022 - Elsevier",Cited by 128
+491,Machine Learning in Information Systems Research.,"B Padmanabhan, X Fang, N Sahoo… - MIS …, 2022 - search.ebscohost.com",Cited by 61
+492,[HTML][HTML] Applications of data mining and machine learning framework in aquaculture and fisheries: A review,"J Gladju, BS Kamalam, A Kanagaraj - Smart Agricultural Technology, 2022 - Elsevier",Cited by 109
+493,Machine learning approaches in stock price prediction: a systematic review,"P Soni, Y Tewari, D Krishnan - Journal of Physics: Conference …, 2022 - iopscience.iop.org",Cited by 90
+494,[HTML][HTML] Extracting spatial effects from machine learning model using local interpretation method: An example of SHAP and XGBoost,"Z Li - Computers, Environment and Urban Systems, 2022 - Elsevier",Cited by 240
+495,Prediction of agriculture yields using machine learning algorithms,"VK Gunjan, S Kumar, MD Ansari… - … in Machine Learning, IoT …, 2022 - Springer",Cited by 39
+496,Machine learning in dentistry: a scoping review,"LT Arsiwala-Scheppach, A Chaurasia… - Journal of Clinical …, 2023 - mdpi.com",Cited by 34
+497,Machine learning approaches in stock market prediction: A systematic literature review,"LN Mintarya, JNM Halim, C Angie, S Achmad… - Procedia Computer …, 2023 - Elsevier",Cited by 69
+498,Malware threat affecting financial organization analysis using machine learning approach,"R Rawat, SK Sarangi, YN Rimal, P William… - International Journal of …, 2022 - igi-global.com",Cited by 110
+499,[HTML][HTML] Twelve key challenges in medical machine learning and solutions,"RJ Ellis, RM Sander, A Limon - Intelligence-Based Medicine, 2022 - Elsevier",Cited by 28
+500,"Machine learning and AI in cancer prognosis, prediction, and treatment selection: a critical approach","B Zhang, H Shi, H Wang - Journal of multidisciplinary healthcare, 2023 - Taylor & Francis",Cited by 79
+501,Diabetic retinopathy detection using machine learning,"GU Parthasharathi, R Premnivas… - Journal of Innovative …, 2022 - irojournals.com",Cited by 39
+502,To understand the relationship between Machine learning and Artificial intelligence in large and diversified business organisations,"SR Sandeep, S Ahamad, D Saxena… - Materials Today …, 2022 - Elsevier",Cited by 53
+503,Machine learning: an advanced platform for materials development and state prediction in lithium‐ion batteries,"C Lv, X Zhou, L Zhong, C Yan, M Srinivasan… - Advanced …, 2022 - Wiley Online Library",Cited by 226
+504,The rise of machine learning in polymer discovery,"C Yan, G Li - Advanced Intelligent Systems, 2023 - Wiley Online Library",Cited by 29
+505,"Factor models, machine learning, and asset pricing","S Giglio, B Kelly, D Xiu - Annual Review of Financial Economics, 2022 - annualreviews.org",Cited by 109
+506,Prediction of diabetes empowered with fused machine learning,"U Ahmed, GF Issa, MA Khan, S Aftab, MF Khan… - IEEE …, 2022 - ieeexplore.ieee.org",Cited by 164
+507,"Machine learning in precision agriculture: a survey on trends, applications and evaluations over two decades","S Condran, M Bewong, MZ Islam, L Maphosa… - IEEE …, 2022 - ieeexplore.ieee.org",Cited by 58
+508,Photonic machine learning with on-chip diffractive optics,"T Fu, Y Zang, Y Huang, Z Du, H Huang, C Hu… - Nature …, 2023 - nature.com",Cited by 106
+509,Detection of network attacks using machine learning and deep learning models,"KA Dhanya, S Vajipayajula, K Srinivasan… - Procedia Computer …, 2023 - Elsevier",Cited by 41
+510,Protein–ligand docking in the machine-learning era,"C Yang, EA Chen, Y Zhang - Molecules, 2022 - mdpi.com",Cited by 84
+511,"Andrew ng, ai minimalist: The machine-learning pioneer says small is the new big","E Strickland - IEEE spectrum, 2022 - ieeexplore.ieee.org",Cited by 101
+512,"The carbon footprint of machine learning training will plateau, then shrink","D Patterson, J Gonzalez, U Hölzle, Q Le, C Liang… - Computer, 2022 - ieeexplore.ieee.org",Cited by 289
+513,Machine learning for ECG diagnosis and risk stratification of occlusion myocardial infarction,"SS Al-Zaiti, C Martin-Gill, JK Zègre-Hemsey, Z Bouzid… - Nature Medicine, 2023 - nature.com",Cited by 72
+514,Early diagnosis of brain tumour mri images using hybrid techniques between deep and machine learning,"EM Senan, ME Jadhav, TH Rassem… - … Methods in Medicine, 2022 - Wiley Online Library",Cited by 91
+515,Machine learning‐based modeling in food processing applications: State of the art,"MIH Khan, SS Sablani, R Nayak… - … reviews in food science …, 2022 - Wiley Online Library",Cited by 57
+516,Enhancing heart disease prediction accuracy through machine learning techniques and optimization,"N Chandrasekhar, S Peddakrishna - Processes, 2023 - mdpi.com",Cited by 87
+517,Liver disease prediction using machine learning classification techniques,"K Gupta, N Jiwani, N Afreen… - 2022 IEEE 11th …, 2022 - ieeexplore.ieee.org",Cited by 82
+518,Machine learning and smart devices for diabetes management: Systematic review,"MA Makroum, M Adda, A Bouzouane, H Ibrahim - Sensors, 2022 - mdpi.com",Cited by 95
+519,[Retracted] Monitoring Cardiovascular Problems in Heart Patients Using Machine Learning,"A Al Ahdal, M Rakhra, RR Rajendran… - Journal of healthcare …, 2023 - Wiley Online Library",Cited by 34
+520,Recent advances in thermal imaging and its applications using machine learning: A review,"AN Wilson, KA Gupta, BH Koduru, A Kumar… - IEEE Sensors …, 2023 - ieeexplore.ieee.org",Cited by 48
+521,Modern applications of machine learning in quantum sciences,"A Dawid, J Arnold, B Requena, A Gresch… - arXiv preprint arXiv …, 2022 - arxiv.org",Cited by 66
+522,A unified framework for machine learning collective variables for enhanced sampling simulations: mlcolvar,"L Bonati, E Trizio, A Rizzi, M Parrinello - The Journal of Chemical …, 2023 - pubs.aip.org",Cited by 31
+523,Bug characterization in machine learning-based systems,"MM Morovati, A Nikanjam, F Tambon, F Khomh… - Empirical Software …, 2024 - Springer",Cited by 28
+524,A predictive analysis of heart rates using machine learning techniques,"M Oyeleye, T Chen, S Titarenko… - International Journal of …, 2022 - mdpi.com",Cited by 56
+525,[HTML][HTML] Early prediction of hypothyroidism and multiclass classification using predictive machine learning and deep learning,"K Guleria, S Sharma, S Kumar, S Tiwari - Measurement: Sensors, 2022 - Elsevier",Cited by 130
+526,Machine learning and deep learning in phononic crystals and metamaterials–A review,"J Kennedy, CW Lim - Materials Today Communications, 2022 - Elsevier",Cited by 61
+527,[HTML][HTML] Robust machine learning algorithms for predicting coastal water quality index,"MG Uddin, S Nash, MTM Diganta, A Rahman… - Journal of …, 2022 - Elsevier",Cited by 123
+528,[PDF][PDF] Breast cancer detection based on thermographic images using machine learning and deep learning algorithms,"VR Allugunti - International Journal of Engineering in Computer …, 2022 - researchgate.net",Cited by 206
+529,Machine learning and acute stroke imaging,"SA Sheth, L Giancardo, M Colasurdo… - Journal of …, 2023 - jnis.bmj.com",Cited by 37
+530,Machine learning for the study of plankton and marine snow from images,"JO Irisson, SD Ayata, DJ Lindsay… - Annual Review of …, 2022 - annualreviews.org",Cited by 84
+531,Phishing website detection with semantic features based on machine learning classifiers: a comparative study,"A Almomani, M Alauthman, MT Shatnawi… - … Journal on Semantic …, 2022 - igi-global.com",Cited by 156
+532,How to dp-fy ml: A practical guide to machine learning with differential privacy,"N Ponomareva, H Hazimeh, A Kurakin, Z Xu… - Journal of Artificial …, 2023 - jair.org",Cited by 109
+533,Machine learning algorithms for smart and intelligent healthcare system in Society 5.0,"IF Zamzami, K Pathoee, BB Gupta… - … Journal of Intelligent …, 2022 - Wiley Online Library",Cited by 19
+534,"[HTML][HTML] Advances of machine learning in multi-energy district communities‒mechanisms, applications and perspectives","Y Zhou - Energy and AI, 2022 - Elsevier",Cited by 55
+535,Structural Health Monitoring for impact localisation via machine learning,"F Dipietrangelo, F Nicassio, G Scarselli - Mechanical Systems and Signal …, 2023 - Elsevier",Cited by 45
+536,Crime analysis using computer vision approach with machine learning,"P William, A Shrivastava… - … Communications and 5G …, 2023 - Springer",Cited by 59
+537,Machine learning and structural health monitoring overview with emerging technology and high-dimensional data source highlights,"A Malekloo, E Ozer, M AlHamaydeh… - Structural Health …, 2022 - journals.sagepub.com",Cited by 313
+538,Modeling the machine learning multiverse,"SJ Bell, O Kampman, J Dodge… - Advances in Neural …, 2022 - proceedings.neurips.cc",Cited by 20
+539,Artificial intelligence and machine learning in emergency medicine: a narrative review,"B Mueller, T Kinoshita, A Peebles… - Acute medicine & …, 2022 - Wiley Online Library",Cited by 57
+540,Predictions of steel price indices through machine learning for the regional northeast Chinese market,"B Jin, X Xu - Neural Computing and Applications, 2024 - Springer",Cited by 5
+541,Machine learning-aided operations and communications of unmanned aerial vehicles: A contemporary survey,"H Kurunathan, H Huang, K Li, W Ni… - … Surveys & Tutorials, 2023 - ieeexplore.ieee.org",Cited by 62
+542,[HTML][HTML] Modeling the mechanical properties of recycled aggregate concrete using hybrid machine learning algorithms,"Y Peng, C Unluer - Resources, Conservation and Recycling, 2023 - Elsevier",Cited by 75
+543,Wireless sensor networks in agriculture through machine learning: A survey,"MM Rahaman, M Azharuddin - Computers and Electronics in Agriculture, 2022 - Elsevier",Cited by 43
+544,A Comparative Study of Machine Learning classifiers to analyze the Precision of Myocardial Infarction prediction,"RH Khan, J Miah, SAA Nipun… - 2023 IEEE 13th Annual …, 2023 - ieeexplore.ieee.org",Cited by 30
+545,DiversityScanner: Robotic handling of small invertebrates with machine learning methods,"L Wührl, C Pylatiuk, M Giersch, F Lapp… - Molecular ecology …, 2022 - Wiley Online Library",Cited by 70
+546,[Retracted] Performance of Machine Learning and Image Processing in Plant Leaf Disease Detection,"AS Zamani, L Anand, KP Rane, P Prabhu… - Journal of Food …, 2022 - Wiley Online Library",Cited by 125
+547,"A state-of-the-art review on machine learning-based multiscale modeling, simulation, homogenization and design of materials","D Bishara, Y Xie, WK Liu, S Li - Archives of computational methods in …, 2023 - Springer",Cited by 77
+548,Machine learning in precision diabetes care and cardiovascular risk prediction,"EK Oikonomou, R Khera - Cardiovascular Diabetology, 2023 - Springer",Cited by 32
+549,[HTML][HTML] … of immune microenvironment subtypes and signature genes for Alzheimer's disease diagnosis and risk prediction based on explainable machine learning,"Y Lai, P Lin, F Lin, M Chen, C Lin, X Lin, L Wu… - Frontiers in …, 2022 - frontiersin.org",Cited by 30
+550,An interpretable machine learning approach for hepatitis b diagnosis,"G Obaido, B Ogbuokiri, TG Swart, N Ayawei… - Applied sciences, 2022 - mdpi.com",Cited by 50
+551,Artificial intelligence and machine learning for quantum technologies,"M Krenn, J Landgraf, T Foesel, F Marquardt - Physical Review A, 2023 - APS",Cited by 87
+552,A review on recent developments in cancer detection using Machine Learning and Deep Learning models,"S Maurya, S Tiwari, MC Mothukuri, CM Tangeda… - … Signal Processing and …, 2023 - Elsevier",Cited by 50
+553,Computational technique based on machine learning and image processing for medical image analysis of breast cancer diagnosis,"VDP Jasti, AS Zamani, K Arumugam… - Security and …, 2022 - Wiley Online Library",Cited by 146
+554,Detection of sql injection attack using machine learning techniques: a systematic literature review,"M Alghawazi, D Alghazzawi, S Alarifi - Journal of Cybersecurity and …, 2022 - mdpi.com",Cited by 85
+555,Metaverse and healthcare: Machine learning-enabled digital twins of cancer,"O Moztarzadeh, M Jamshidi, S Sargolzaei, A Jamshidi… - Bioengineering, 2023 - mdpi.com",Cited by 69
+556,[HTML][HTML] Machine learning in petrophysics: Advantages and limitations,"C Xu, L Fu, T Lin, W Li, S Ma - Artificial Intelligence in Geosciences, 2022 - Elsevier",Cited by 18
+557,Graph filters for signal processing and machine learning on graphs,"E Isufi, F Gama, DI Shuman… - IEEE Transactions on …, 2024 - ieeexplore.ieee.org",Cited by 54
+558,[HTML][HTML] How machine learning is used to study addiction in digital healthcare: A systematic review,"B Chhetri, LM Goyal, M Mittal - International Journal of Information …, 2023 - Elsevier",Cited by 26
+559,Prediction of peptide mass spectral libraries with machine learning,"J Cox - Nature Biotechnology, 2023 - nature.com",Cited by 57
+560,Rainfall prediction system using machine learning fusion for smart cities,"A Rahman, S Abbas, M Gollapalli, R Ahmed, S Aftab… - Sensors, 2022 - mdpi.com",Cited by 108
+561,[HTML][HTML] A machine learning-based intrusion detection for detecting internet of things network attacks,"YK Saheed, AI Abiodun, S Misra, MK Holone… - Alexandria Engineering …, 2022 - Elsevier",Cited by 199
+562,[HTML][HTML] MapReduce based intelligent model for intrusion detection using machine learning technique,"M Asif, S Abbas, MA Khan, A Fatima, MA Khan… - Journal of King Saud …, 2022 - Elsevier",Cited by 179
+563,Machine-learning atomic simulation for heterogeneous catalysis,"D Chen, C Shang, ZP Liu - npj Computational Materials, 2023 - nature.com",Cited by 40
+564,Machine learning activation energies of chemical reactions,"T Lewis‐Atwell, PA Townsend… - Wiley Interdisciplinary …, 2022 - Wiley Online Library",Cited by 52
+565,Wheat seed classification: utilizing ensemble machine learning approach,"A Khatri, S Agrawal, JM Chatterjee - Scientific programming, 2022 - Wiley Online Library",Cited by 51
+566,Machine learning-assisted approaches in modernized plant breeding programs,"M Yoosefzadeh Najafabadi, M Hesami, M Eskandari - Genes, 2023 - mdpi.com",Cited by 37
+567,Predicting the quality of air with machine learning approaches: Current research priorities and future perspectives,"K Mehmood, Y Bao, W Cheng, MA Khan… - Journal of Cleaner …, 2022 - Elsevier",Cited by 31
+568,Applications of machine learning in thermochemical conversion of biomass-A review,"SR Naqvi, Z Ullah, SAA Taqvi, MNA Khan, W Farooq… - Fuel, 2023 - Elsevier",Cited by 111
+569,Machine learning techniques to detect a DDoS attack in SDN: A systematic review,"TE Ali, YW Chong, S Manickam - Applied Sciences, 2023 - mdpi.com",Cited by 76
+570,Machine learning and the Internet of Things security: Solutions and open challenges,"U Farooq, N Tariq, M Asim, T Baker… - Journal of Parallel and …, 2022 - Elsevier",Cited by 54
+571,[HTML][HTML] Performance analysis of the water quality index model for predicting water state using machine learning techniques,"MG Uddin, S Nash, A Rahman, AI Olbert - Process Safety and …, 2023 - Elsevier",Cited by 122
+572,The role of machine learning in enhancing computer vision processing,"C Guo, Y Zhao, T Liu, C Yang - … ВОПРОСЫ СОВРЕМЕННЫХ НАУЧНЫХ …, 2023 - elibrary.ru",Cited by 19
+573,A survey of machine learning for computer architecture and systems,"N Wu, Y Xie - ACM Computing Surveys (CSUR), 2022 - dl.acm.org",Cited by 75
+574,Data Versioning and Its Impact on Machine Learning Models,"MR Pulicharla - Journal of Science & Technology, 2024 - thesciencebrigade.com",Cited by 38
+575,[HTML][HTML] Solar photovoltaic power prediction using different machine learning methods,"B Zazoum - Energy Reports, 2022 - Elsevier",Cited by 119
+576,Leveraging Natural Language Processing and Machine Learning for Enhanced Content Rating,"BY Kasula - International Meridian Journal, 2023 - meridianjournal.in",Cited by 24
+577,Counting carbon: A survey of factors influencing the emissions of machine learning,"AS Luccioni, A Hernandez-Garcia - arXiv preprint arXiv:2302.08476, 2023 - arxiv.org",Cited by 44
+578,Foundations of machine learning for low-temperature plasmas: methods and case studies,"AD Bonzanini, K Shao, DB Graves… - Plasma Sources …, 2023 - iopscience.iop.org",Cited by 20
+579,[HTML][HTML] A machine learning method for the evaluation of ship grounding risk in real operational conditions,"M Zhang, P Kujala, S Hirdaris - Reliability Engineering & System Safety, 2022 - Elsevier",Cited by 78
+580,Towards leveraging the role of machine learning and artificial intelligence in precision agriculture and smart farming,"TA Shaikh, T Rasool, FR Lone - Computers and Electronics in Agriculture, 2022 - Elsevier",Cited by 401
+581,[HTML][HTML] Missing data is poorly handled and reported in prediction model studies using machine learning: a literature review,"SWJ Nijman, AM Leeuwenberg, I Beekers… - Journal of clinical …, 2022 - Elsevier",Cited by 122
+582,A database of ultrastable MOFs reassembled from stable fragments with machine learning models,"A Nandy, S Yue, C Oh, C Duan, GG Terrones… - Matter, 2023 - cell.com",Cited by 29
+583,Machine learning for risk and resilience assessment in structural engineering: Progress and future trends,"X Wang, RK Mazumder, B Salarieh… - Journal of Structural …, 2022 - ascelibrary.org",Cited by 87
+584,[HTML][HTML] A machine learning method for predicting the chloride migration coefficient of concrete,"WZ Taffese, L Espinosa-Leal - Construction and Building Materials, 2022 - Elsevier",Cited by 52
+585,Code generation using machine learning: A systematic review,"E Dehaerne, B Dey, S Halder, S De Gendt… - Ieee …, 2022 - ieeexplore.ieee.org",Cited by 52
+586,Machine learning models to predict the tunnel wall convergence,"J Zhou, Y Chen, C Li, Y Qiu, S Huang, M Tao - Transportation Geotechnics, 2023 - Elsevier",Cited by 26
+587,Taxonomy of machine learning safety: A survey and primer,"S Mohseni, H Wang, C Xiao, Z Yu, Z Wang… - ACM Computing …, 2022 - dl.acm.org",Cited by 38
+588,Network Security in Cyberspace Using Machine Learning Techniques,"CS Ranganathan, R Raman, KK Sutaria… - 2023 7th …, 2023 - ieeexplore.ieee.org",Cited by 32
+589,[HTML][HTML] Air Quality Index prediction using machine learning for Ahmedabad city,"NN Maltare, S Vahora - Digital Chemical Engineering, 2023 - Elsevier",Cited by 46
+590,Machine learning in the prediction of medical inpatient length of stay,"S Bacchi, Y Tan, L Oakden‐Rayner… - Internal medicine …, 2022 - Wiley Online Library",Cited by 73
+591,Literature review of breast cancer detection using machine learning algorithms,"BS Abunasser, MRJ AL-Hiealy, IS Zaqout… - AIP Conference …, 2023 - pubs.aip.org",Cited by 30
+592,Machine learning and phone data can improve targeting of humanitarian aid,"E Aiken, S Bellue, D Karlan, C Udry, JE Blumenstock - Nature, 2022 - nature.com",Cited by 150
+593,[HTML][HTML] Perspective: Predicting and optimizing thermal transport properties with machine learning methods,"H Wei, H Bao, X Ruan - Energy and AI, 2022 - Elsevier",Cited by 33
+594,Integrating physics-based modeling with machine learning for lithium-ion batteries,"H Tu, S Moura, Y Wang, H Fang - Applied energy, 2023 - Elsevier",Cited by 70
+595,Artificial intelligence: Machine learning approach for screening large database and drug discovery,"PP Parvatikar, S Patil, K Khaparkhuntikar, S Patil… - Antiviral Research, 2023 - Elsevier",Cited by 26
+596,Systematic review of using machine learning in imputing missing values,"M Alabadla, F Sidi, I Ishak, H Ibrahim… - IEEE …, 2022 - ieeexplore.ieee.org",Cited by 42
+597,Optimizing Data Warehousing Performance through Machine Learning Algorithms in the Cloud,"S Ahmadi - International Journal of Science and Research (IJSR), 2023 - papers.ssrn.com",Cited by 43
+598,[HTML][HTML] A systematic literature review on modern methods of construction in building: An integrated approach using machine learning,"AJ Sánchez-Garrido, IJ Navarro, J García… - Journal of Building …, 2023 - Elsevier",Cited by 25
+599,"[HTML][HTML] Big data, machine learning, and digital twin assisted additive manufacturing: A review","L Jin, X Zhai, K Wang, K Zhang, D Wu, A Nazir, J Jiang… - Materials & Design, 2024 - Elsevier",Cited by 10
+600,"Past, present, and future of sustainable finance: insights from big data analytics through machine learning of scholarly research","S Kumar, D Sharma, S Rao, WM Lim… - Annals of Operations …, 2022 - Springer",Cited by 299
+601,"Artificial intelligence, machine learning and smart technologies for nondestructive evaluation","H Taheri, M Gonzalez Bocanegra, M Taheri - Sensors, 2022 - mdpi.com",Cited by 45
+602,DDoS attacks detection using machine learning and deep learning techniques: Analysis and comparison,"MA Al-Shareeda, S Manickam… - Bulletin of Electrical …, 2023 - mail.beei.org",Cited by 59
+603,A literature review of machine learning algorithms for crash injury severity prediction,"K Santos, JP Dias, C Amado - Journal of safety research, 2022 - Elsevier",Cited by 109
+604,Predicting electronic structures at any length scale with machine learning,"L Fiedler, NA Modine, S Schmerler, DJ Vogel… - npj Computational …, 2023 - nature.com",Cited by 25
+605,Effectiveness of machine learning technology in detecting patterns of certain diseases within patient electronic healthcare records,"DK Sharma, DS Chakravarthi, RSK Boddu… - Proceedings of Second …, 2022 - Springer",Cited by 41
+606,Bankruptcy prediction using machine learning techniques,"S Shetty, M Musa, X Brédart - Journal of Risk and Financial Management, 2022 - mdpi.com",Cited by 66
+607,A review of machine learning methods applied to structural dynamics and vibroacoustic,"BZ Cunha, C Droz, AM Zine, S Foulard… - Mechanical Systems and …, 2023 - Elsevier",Cited by 78
+608,Artificial intelligence and machine learning in precision and genomic medicine,"S Quazi - Medical Oncology, 2022 - Springer",Cited by 189
+609,Machine learning for emerging infectious disease field responses,"HYR Chiu, CK Hwang, SY Chen, FY Shih, HC Han… - Scientific Reports, 2022 - nature.com",Cited by 42
+610,Machine learning for the prediction of acute kidney injury in patients with sepsis,"S Yue, S Li, X Huang, J Liu, X Hou, Y Zhao… - Journal of translational …, 2022 - Springer",Cited by 90
+611,Machine learning-based time series models for effective CO2 emission prediction in India,"S Kumari, SK Singh - Environmental Science and Pollution Research, 2023 - Springer",Cited by 89
+612,Application of machine learning and deep learning in cybersecurity: An innovative approach,"D Kaushik, M Garg, A Gupta… - … Approach to Modern …, 2022 - taylorfrancis.com",Cited by 32
+613,Machine learning in antibacterial drug design,"M Jukič, U Bren - Frontiers in Pharmacology, 2022 - frontiersin.org",Cited by 31
+614,[BOOK][B] Knowledge guided machine learning: Accelerating discovery using scientific knowledge and data,"A Karpatne, R Kannan, V Kumar - 2022 - books.google.com",Cited by 56
+615,Detection of Deauthentication Threats in Wi-Fi Channels Using Machine Learning Strategies,"R Latha, RM Bommi - … Conference on Data Science, Agents & …, 2022 - ieeexplore.ieee.org",Cited by 54
+616,Efficient medical diagnosis of human heart diseases using machine learning techniques with and without GridSearchCV,"GN Ahmad, H Fatima, S Ullah, AS Saidi - IEEE Access, 2022 - ieeexplore.ieee.org",Cited by 134
+617,[HTML][HTML] Algorithmic bias in machine learning-based marketing models,"S Akter, YK Dwivedi, S Sajib, K Biswas… - Journal of Business …, 2022 - Elsevier",Cited by 107
+618,Evaluation of machine learning algorithm on drinking water quality for better sustainability,"S Kaddoura - Sustainability, 2022 - mdpi.com",Cited by 31
+619,Machine-learning-based monitoring and optimization of processing parameters in 3D printing,"TS Tamir, G Xiong, Q Fang, Y Yang… - … Journal of Computer …, 2023 - Taylor & Francis",Cited by 46
+620,Synthetic data as an enabler for machine learning applications in medicine,"JF Rajotte, R Bergen, DL Buckeridge, K El Emam, R Ng… - Iscience, 2022 - cell.com",Cited by 43
+621,An Overview of Machine Learning for Asset Management.,"Y Lee, JRJ Thompson, JH Kim… - Journal of Portfolio …, 2023 - search.ebscohost.com",Cited by 13
+622,[HTML][HTML] Groundwater level prediction using machine learning models: A comprehensive review,"H Tao, MM Hameed, HA Marhoon… - Neurocomputing, 2022 - Elsevier",Cited by 211
+623,Evaluating various machine learning algorithms for automated inspection of culverts,"P Mohammadi, A Rashidi, M Malekzadeh… - Engineering Analysis with …, 2023 - Elsevier",Cited by 32
+624,SliceTeller: A data slice-driven approach for machine learning model validation,"X Zhang, JP Ono, H Song, L Gou… - IEEE Transactions on …, 2022 - ieeexplore.ieee.org",Cited by 34
+625,Explanation of machine learning models using shapley additive explanation and application for real data in hospital,"Y Nohara, K Matsumoto, H Soejima… - Computer Methods and …, 2022 - Elsevier",Cited by 231
+626,Toward practices for human-centered machine learning,"S Chancellor - Communications of the ACM, 2023 - dl.acm.org",Cited by 38
+627,A systematic review of machine learning techniques for GNSS use cases,"A Siemuri, K Selvan, H Kuusniemi… - … on Aerospace and …, 2022 - ieeexplore.ieee.org",Cited by 34
+628,Analyzing sentiments regarding ChatGPT using novel BERT: A machine learning approach,"M Mujahid, F Rustam, R Shafique, V Chunduri… - Information, 2023 - mdpi.com",Cited by 21
+629,A survey on fairness for machine learning on graphs,"C Laclau, C Largeron, M Choudhary - arXiv preprint arXiv:2205.05396, 2022 - arxiv.org",Cited by 31
+630,Enhanced credit card fraud detection model using machine learning,"NS Alfaiz, SM Fati - Electronics, 2022 - mdpi.com",Cited by 113
+631,Determining asthma endotypes and outcomes: Complementing existing clinical practice with modern machine learning,"A Ray, J Das, SE Wenzel - Cell Reports Medicine, 2022 - cell.com",Cited by 23
+632,[HTML][HTML] Machine fault detection methods based on machine learning algorithms: A review,"G Ciaburro - Mathematical Biosciences and Engineering, 2022 - aimspress.com",Cited by 30
+633,[HTML][HTML] An artificial intelligence model for heart disease detection using machine learning algorithms,"V Chang, VR Bhavani, AQ Xu, MA Hossain - Healthcare Analytics, 2022 - Elsevier",Cited by 179
+634,[HTML][HTML] Machine learning for numerical weather and climate modelling: a review,"CO de Burgh-Day… - Geoscientific Model …, 2023 - gmd.copernicus.org",Cited by 37
+635,[PDF][PDF] Detection Collision Flows in SDN Based 5G Using Machine Learning Algorithms.,"A Aqdus, R Amin, S Ramzan… - … Materials & Continua, 2023 - cdn.techscience.cn",Cited by 70
+636,Machine learning for observational cosmology,"K Moriwaki, T Nishimichi… - Reports on Progress in …, 2023 - iopscience.iop.org",Cited by 14
+637,Energy demand forecasting using fused machine learning approaches,"TM Ghazal - Intelligent Automation & Soft …, 2022 - research.skylineuniversity.ac.ae",Cited by 81
+638,"Machine learning and deep learning based computational approaches in automatic microorganisms image recognition: methodologies, challenges, and …","P Rani, S Kotwal, J Manhas, V Sharma… - … Methods in Engineering, 2022 - Springer",Cited by 86
+639,[HTML][HTML] Machine learning in sustainable ship design and operation: A review,"L Huang, B Pena, Y Liu, E Anderlini - Ocean Engineering, 2022 - Elsevier",Cited by 32
+640,Sources of Uncertainty in Machine Learning--A Statisticians' View,"C Gruber, PO Schenk, M Schierholz, F Kreuter… - arXiv preprint arXiv …, 2023 - arxiv.org",Cited by 31
+641,[HTML][HTML] Crops yield prediction based on machine learning models: Case of West African countries,"LS Cedric, WYH Adoni, R Aworka, JT Zoueu… - Smart Agricultural …, 2022 - Elsevier",Cited by 114
+642,A Novel Approach to Optimize Prediction Method for Chronic Kidney Disease with the Help of Machine Learning Algorithm,"SS Vellela, LR Vuyyuru… - … and Informatics (IC3I …, 2023 - ieeexplore.ieee.org",Cited by 26
+643,[HTML][HTML] DEM resolution effects on machine learning performance for flood probability mapping,"M Avand, A Kuriqi, M Khazaei… - Journal of Hydro …, 2022 - Elsevier",Cited by 98
+644,Machine learning approach for autonomous detection and classification of COVID-19 virus,"OR Shahin, HH Alshammari, AI Taloba… - Computers and …, 2022 - Elsevier",Cited by 51
+645,Machine learning for enhancing transportation security: A comprehensive analysis of electric and flying vehicle systems,"H Alqahtani, G Kumar - Engineering Applications of Artificial Intelligence, 2024 - Elsevier",Cited by 45
+646,"Machine learning methods, databases and tools for drug combination prediction","L Wu, Y Wen, D Leng, Q Zhang, C Dai… - Briefings in …, 2022 - academic.oup.com",Cited by 71
+647,[HTML][HTML] A survey: Distributed Machine Learning for 5G and beyond,"O Nassef, W Sun, H Purmehdi, M Tatipamula… - Computer Networks, 2022 - Elsevier",Cited by 58
+648,Deep learning and machine learning with grid search to predict later occurrence of breast Cancer metastasis using clinical data,"X Jiang, C Xu - Journal of clinical medicine, 2022 - mdpi.com",Cited by 62
+649,"A systematic literature review on multimodal machine learning: Applications, challenges, gaps and future directions","A Barua, MU Ahmed, S Begum - IEEE Access, 2023 - ieeexplore.ieee.org",Cited by 33
+650,Machine Learning Descriptors for Data‐Driven Catalysis Study,"LH Mou, TT Han, PES Smith, E Sharman… - Advanced …, 2023 - Wiley Online Library",Cited by 32
+651,Machine learning methodology for identifying vehicles using image processing,"M Hasanvand, M Nooshyar… - Artificial Intelligence …, 2023 - ojs.bonviewpress.com",Cited by 46
+652,[HTML][HTML] Remaining Useful Life prediction and challenges: A literature review on the use of Machine Learning Methods,"C Ferreira, G Gonçalves - Journal of Manufacturing Systems, 2022 - Elsevier",Cited by 141
+653,Machine learning assessment under the development of green technology innovation: A perspective of energy transition,"W Chen, W Zou, K Zhong, A Aliyeva - Renewable Energy, 2023 - Elsevier",Cited by 27
+654,What is machine learning?,"O Baloglu, SQ Latifi, A Nazha - … of Disease in Childhood-Education and …, 2022 - ep.bmj.com",Cited by 32
+655,Machine-learning interpretability techniques for seismic performance assessment of infrastructure systems,"S Mangalathu, K Karthikeyan, DC Feng, JS Jeon - Engineering Structures, 2022 - Elsevier",Cited by 88
+656,A comprehensive empirical study of bias mitigation methods for machine learning classifiers,"Z Chen, JM Zhang, F Sarro, M Harman - ACM Transactions on Software …, 2023 - dl.acm.org",Cited by 61
+657,Artificial intelligence and machine learning in finance: A bibliometric review,"S Ahmed, MM Alshater, A El Ammari… - Research in International …, 2022 - Elsevier",Cited by 200
+658,Machine learning in physics and geometry,"YH He, E Heyes, E Hirst - Artificial Intelligence, 2023 - books.google.com",Cited by 15
+659,[BOOK][B] Personalized machine learning,J McAuley - 2022 - books.google.com,Cited by 27
+660,[HTML][HTML] Learning from major accidents: A machine learning approach,"N Tamascelli, R Solini, N Paltrinieri… - Computers & Chemical …, 2022 - Elsevier",Cited by 37
+661,Ground truth tracings (GTT): On the epistemic limits of machine learning,"EB Kang - Big data & society, 2023 - journals.sagepub.com",Cited by 22
+662,When confidence meets accuracy: Exploring the effects of multiple performance indicators on trust in machine learning models,"A Rechkemmer, M Yin - Proceedings of the 2022 chi conference on …, 2022 - dl.acm.org",Cited by 80
+663,FuXi: A cascade machine learning forecasting system for 15-day global weather forecast,"L Chen, X Zhong, F Zhang, Y Cheng, Y Xu… - npj Climate and …, 2023 - nature.com",Cited by 60
+664,The disagreement problem in explainable machine learning: A practitioner's perspective,"S Krishna, T Han, A Gu, J Pombra, S Jabbari… - arXiv preprint arXiv …, 2022 - arxiv.org",Cited by 199
+665,[HTML][HTML] SurvSHAP (t): time-dependent explanations of machine learning survival models,"M Krzyziński, M Spytek, H Baniecki, P Biecek - Knowledge-Based Systems, 2023 - Elsevier",Cited by 60
+666,When smart cities get smarter via machine learning: An in-depth literature review,"SS Band, S Ardabili, M Sookhak… - IEEE …, 2022 - ieeexplore.ieee.org",Cited by 61
+667,[HTML][HTML] A predictive analytics approach for stroke prediction using machine learning and neural networks,"S Dev, H Wang, CS Nwosu, N Jain, B Veeravalli… - Healthcare …, 2022 - Elsevier",Cited by 132
+668,Disclosure sentiment: Machine learning vs. dictionary methods,"R Frankel, J Jennings, J Lee - Management Science, 2022 - pubsonline.informs.org",Cited by 102
+669,Novel machine learning applications on fly ash based concrete: an overview,"G Khambra, P Shukla - Materials Today: Proceedings, 2023 - Elsevier",Cited by 106
+670,Machine learning for anxiety detection using biosignals: a review,"L Ancillon, M Elgendi, C Menon - Diagnostics, 2022 - mdpi.com",Cited by 46
+671,Change detection in remote sensing image data comparing algebraic and machine learning methods,"A Goswami, D Sharma, H Mathuku, SMP Gangadharan… - Electronics, 2022 - mdpi.com",Cited by 161
+672,Machine learning for smart agriculture and precision farming: towards making the fields talk,"TA Shaikh, WA Mir, T Rasool, S Sofi - Archives of Computational Methods …, 2022 - Springer",Cited by 81
+673,Adversarial machine learning for network intrusion detection systems: A comprehensive survey,"K He, DD Kim, MR Asghar - IEEE Communications Surveys & …, 2023 - ieeexplore.ieee.org",Cited by 138
+674,Robustness of local predictions in atomistic machine learning models,"S Chong, F Grasselli, C Ben Mahmoud… - Journal of Chemical …, 2023 - ACS Publications",Cited by 17
+675,[HTML][HTML] APLUS: a Python library for usefulness simulations of machine learning models in healthcare,"M Wornow, EG Ross, A Callahan, NH Shah - Journal of biomedical …, 2023 - Elsevier",Cited by 21
+676,The role of artificial intelligence and machine learning amid the COVID-19 pandemic: What lessons are we learning on 4IR and the sustainable development goals,"D Mhlanga - International Journal of Environmental Research and …, 2022 - mdpi.com",Cited by 129
+677,Critical tools for machine learning: Working with intersectional critical concepts in machine learning systems design,"G Klumbytė, C Draude, AS Taylor - … of the 2022 ACM Conference on …, 2022 - dl.acm.org",Cited by 23
+678,Machine learning and deep learning techniques for breast cancer diagnosis and classification: a comprehensive review of medical imaging studies,"M Radak, HY Lafta, H Fallahi - Journal of Cancer Research and Clinical …, 2023 - Springer",Cited by 39
+679,First machine learning gravitational-wave search mock data challenge,"MB Schäfer, O Zelenka, AH Nitz, H Wang, S Wu… - Physical Review D, 2023 - APS",Cited by 43
+680,Predicting air quality index using ensemble machine learning,"M Hardini, RA Sunarjo, M Asfi, MHR Chakim… - ADI Journal on Recent …, 2023 - adi-journal.org",Cited by 24
+681,[HTML][HTML] A machine learning application in wine quality prediction,"P Bhardwaj, P Tiwari, K Olejar Jr, W Parr… - Machine Learning with …, 2022 - Elsevier",Cited by 57
+682,Divination of air quality assessment using ensembling machine learning approach,"P William, DN Paithankar, PM Yawalkar… - 2023 International …, 2023 - ieeexplore.ieee.org",Cited by 41
+683,Review of machine learning approach on credit card fraud detection,"R Bin Sulaiman, V Schetinin, P Sant - Human-Centric Intelligent Systems, 2022 - Springer",Cited by 117
+684,Complex features extraction with deep learning model for the detection of COVID19 from CT scan images using ensemble based machine learning approach,"MR Islam, M Nahiduzzaman - Expert Systems with Applications, 2022 - Elsevier",Cited by 98
+685,"Revolutionizing municipal solid waste management (MSWM) with machine learning as a clean resource: Opportunities, challenges and solutions","MT Munir, B Li, M Naqvi - Fuel, 2023 - Elsevier",Cited by 24
+686,Application of machine learning for cytometry data,"Z Hu, S Bhattacharya, AJ Butte - Frontiers in immunology, 2022 - frontiersin.org",Cited by 43
+687,"[CITATION][C] Charting New Frontiers: AI, Machine Learning, and Deep Learning in Brain and Heart Health","MB Nazir, I Hussain - Revista Espanola de Documentacion Cientifica, 2024",Cited by 14
+688,A hybrid science‐guided machine learning approach for modeling chemical processes: A review,"N Sharma, YA Liu - AIChE Journal, 2022 - Wiley Online Library",Cited by 63
+689,Predicting measures of soil health using the microbiome and supervised machine learning,"RC Wilhelm, HM van Es, DH Buckley - Soil Biology and Biochemistry, 2022 - Elsevier",Cited by 98
+690,A machine learning algorithm to analyse the effects of vaccination on COVID-19 mortality,"C Magazzino, M Mele, M Coccia - Epidemiology & Infection, 2022 - cambridge.org",Cited by 73
+691,[HTML][HTML] Time-series forecasting of seasonal items sales using machine learning–A comparative analysis,"Y Ensafi, SH Amin, G Zhang, B Shah - International Journal of Information …, 2022 - Elsevier",Cited by 204
+692,Trends and potential of machine learning and deep learning in drug study at single-cell level,"R Qi, Q Zou - Research, 2023 - spj.science.org",Cited by 25
+693,[PDF][PDF] Security enhancement by identifying attacks using machine learning for 5G network,"H Keserwani, H Rastogi, AZ Kurniullah… - International Journal …, 2022 - researchgate.net",Cited by 46
+694,Comparison of supervised machine learning methods to predict ship propulsion power at sea,"X Lang, D Wu, W Mao - Ocean Engineering, 2022 - Elsevier",Cited by 56
+695,Recent advances in machine learning research for nanofluid-based heat transfer in renewable energy system,"P Sharma, Z Said, A Kumar, S Nizetic, A Pandey… - Energy & …, 2022 - ACS Publications",Cited by 218
+696,Artificial intelligence and machine learning for smart bioprocesses,"SK Khanal, A Tarafdar, S You - Bioresource Technology, 2023 - Elsevier",Cited by 31
+697,Lift: Language-interfaced fine-tuning for non-language machine learning tasks,"T Dinh, Y Zeng, R Zhang, Z Lin… - Advances in …, 2022 - proceedings.neurips.cc",Cited by 94
+698,Early-stage Alzheimer's disease prediction using machine learning models,"C Kavitha, V Mani, SR Srividhya, OI Khalaf… - Frontiers in public …, 2022 - frontiersin.org",Cited by 165
+699,News-based intelligent prediction of financial markets using text mining and machine learning: A systematic literature review,"MN Ashtiani, B Raahemi - Expert Systems with Applications, 2023 - Elsevier",Cited by 89
+700,"[HTML][HTML] Machine learning in crop yield modelling: A powerful tool, but no surrogate for science","G Lischeid, H Webber, M Sommer, C Nendel… - Agricultural and Forest …, 2022 - Elsevier",Cited by 72
+701,Predicting mental health illness using machine learning algorithms,"K Vaishnavi, UN Kamath, BA Rao… - Journal of Physics …, 2022 - iopscience.iop.org",Cited by 45
+702,[HTML][HTML] A novel approach for estimating and predicting uncertainty in water quality index model using machine learning approaches,"MG Uddin, S Nash, A Rahman, AI Olbert - Water Research, 2023 - Elsevier",Cited by 113
+703,Machine learning for topology optimization: Physics-based learning through an independent training strategy,"FV Senhora, H Chi, Y Zhang, L Mirabella… - Computer Methods in …, 2022 - Elsevier",Cited by 42
+704,House price prediction using random forest machine learning technique,"AB Adetunji, ON Akande, FA Ajala, O Oyewo… - Procedia Computer …, 2022 - Elsevier",Cited by 106
+705,Antibiotic discovery with machine learning,"C de la Fuente-Nunez - Nature Biotechnology, 2022 - nature.com",Cited by 22
+706,Suspicious activity detection and classification in IoT environment using machine learning approach,"V Talukdar, D Dhabliya, B Kumar… - … , Distributed and Grid …, 2022 - ieeexplore.ieee.org",Cited by 41
+707,Early detection of coronary heart disease based on machine learning methods,"R Yılmaz, FH Yağın - Medical Records, 2022 - dergipark.org.tr",Cited by 55
+708,[HTML][HTML] Air quality prediction by machine learning models: A predictive study on the indian coastal city of Visakhapatnam,"G Ravindiran, G Hayder, K Kanagarathinam… - Chemosphere, 2023 - Elsevier",Cited by 31
+709,[PDF][PDF] DDoS Detection in SDN using Machine Learning Techniques.,"MW Nadeem, HG Goh, V Ponnusamy… - Computers, Materials & …, 2022 - cdn.techscience.cn",Cited by 59
+710,"Machine learning in the identification, prediction and exploration of environmental toxicology: Challenges and perspectives","X Wu, Q Zhou, L Mu, X Hu - Journal of Hazardous Materials, 2022 - Elsevier",Cited by 29
+711,Survey paper: Comparative study of machine learning techniques and its recent applications,"BD Shivahare, S Suman… - … in Technology and …, 2022 - ieeexplore.ieee.org",Cited by 32
+712,Image segmentation for MR brain tumor detection using machine learning: a review,"TA Soomro, L Zheng, AJ Afifi, A Ali… - IEEE Reviews in …, 2022 - ieeexplore.ieee.org",Cited by 148
+713,Grain boundary sliding and distortion on a nanosecond timescale induce trap states in CsPbBr 3: ab initio investigation with machine learning force field,"D Liu, Y Wu, AS Vasenko, OV Prezhdo - Nanoscale, 2023 - pubs.rsc.org",Cited by 21
+714,The 2021 landscape of FDA-approved artificial intelligence/machine learning-enabled medical devices: An analysis of the characteristics and intended use,"S Zhu, M Gilbert, I Chetty, F Siddiqui - International journal of medical …, 2022 - Elsevier",Cited by 66
+715,Using machine learning algorithms classified depressed patients and normal people,"G Chopra, P Whig - International Journal of Machine Learning for …, 2022 - ijsdcs.com",Cited by 45
+716,Creativity and machine learning: A survey,"G Franceschelli, M Musolesi - ACM Computing Surveys, 2024 - dl.acm.org",Cited by 40
+717,An ensemble approach to predict early-stage diabetes risk using machine learning: An empirical study,"UE Laila, K Mahboob, AW Khan, F Khan, W Taekeun - Sensors, 2022 - mdpi.com",Cited by 94
+718,Motion planning and control for mobile robot navigation using machine learning: a survey,"X Xiao, B Liu, G Warnell, P Stone - Autonomous Robots, 2022 - Springer",Cited by 217
+719,Advances in machine learning and deep learning applications towards wafer map defect recognition and classification: a review,"T Kim, K Behdinan - Journal of Intelligent Manufacturing, 2023 - Springer",Cited by 49
+720,Machine learning and blockchain technologies for cybersecurity in connected vehicles,"J Ahmad, MU Zia, IH Naqvi, JN Chattha… - … : Data Mining and …, 2024 - Wiley Online Library",Cited by 32
+721,Enhancing machine learning with low-cost p m2. 5 air quality sensor calibration using image processing,"U Rahardja, Q Aini, D Manongga… - APTISI Transactions …, 2023 - ijc.ilearning.co",Cited by 38
+722,Physics-based representations for machine learning properties of chemical reactions,"P van Gerwen, A Fabrizio, MD Wodrich… - Machine Learning …, 2022 - iopscience.iop.org",Cited by 25
+723,A systematic review on machine learning and deep learning techniques in the effective diagnosis of Alzheimer's disease,"AD Arya, SS Verma, P Chakarabarti, T Chakrabarti… - Brain Informatics, 2023 - Springer",Cited by 48
+724,"Machine learning for intrusion detection in industrial control systems: Applications, challenges, and recommendations","MA Umer, KN Junejo, MT Jilani, AP Mathur - International Journal of …, 2022 - Elsevier",Cited by 95
+725,The development and deployment of machine learning models,"JA Pruneski, RJ Williams III, BU Nwachukwu… - Knee Surgery, Sports …, 2022 - Springer",Cited by 24
+726,Machine learning for predicting chronic diseases: a systematic review,"FM Delpino, ÂK Costa, SR Farias… - Public Health, 2022 - Elsevier",Cited by 34
+727,Employee performance prediction: An integrated approach of business analytics and machine learning,"MDR Hasan, RK Ray… - Journal of Business and …, 2024 - al-kindipublisher.com",Cited by 42
+728,Error metrics and performance fitness indicators for artificial intelligence and machine learning in engineering and sciences,"MZ Naser, AH Alavi - Architecture, Structures and Construction, 2023 - Springer",Cited by 232
+729,[HTML][HTML] Transition1x-a dataset for building generalizable reactive machine learning potentials,"M Schreiner, A Bhowmik, T Vegge, J Busk, O Winther - Scientific Data, 2022 - nature.com",Cited by 43
+730,Machine learning prediction of antimicrobial peptides,"G Wang, II Vaisman, ML van Hoek - Computational peptide science …, 2022 - Springer",Cited by 55
+731,Cancer prediction using machine learning,"G Sruthi, CL Ram, MK Sai, BP Singh… - … in Technology and …, 2022 - ieeexplore.ieee.org",Cited by 38
+732,Application of machine learning techniques to detect the children with autism spectrum disorder,"M Liao, H Duan, G Wang - Journal of Healthcare Engineering, 2022 - Wiley Online Library",Cited by 61
+733,Direct generation of protein conformational ensembles via machine learning,"G Janson, G Valdes-Garcia, L Heo, M Feig - Nature Communications, 2023 - nature.com",Cited by 74
+734,PMLB v1. 0: an open-source dataset collection for benchmarking machine learning methods,"JD Romano, TT Le, W La Cava, JT Gregg… - …, 2022 - academic.oup.com",Cited by 92
+735,A review on security analysis of cyber physical systems using Machine learning,"AA Jamal, AAM Majid, A Konev, T Kosachenko… - Materials today …, 2023 - Elsevier",Cited by 79
+736,Data Fusion-based machine learning architecture for intrusion detection,"TM Ghazal - Computers, Materials & Continua, 2022 - research.skylineuniversity.ac.ae",Cited by 100
+737,"Breast tumor localization and segmentation using machine learning techniques: Overview of datasets, findings, and methods","R Ranjbarzadeh, S Dorosti, SJ Ghoushchi… - Computers in Biology …, 2023 - Elsevier",Cited by 50
+738,Multi-label active learning-based machine learning model for heart disease prediction,"IM El-Hasnony, OM Elzeki, A Alshehri, H Salem - Sensors, 2022 - mdpi.com",Cited by 124
+739,Machine learning models for classification and identification of significant attributes to detect type 2 diabetes,"KC Howlader, MS Satu, MA Awal, MR Islam… - … information science and …, 2022 - Springer",Cited by 56
+740,Machine-learning methods for ligand–protein molecular docking,"K Crampon, A Giorkallos, M Deldossi, S Baud… - Drug discovery today, 2022 - Elsevier",Cited by 185
+741,[PDF][PDF] Auto modelling for machine learning: a comparison implementation between rapid miner and python,"N Baharun, NFM Razi, S Masrom… - Int. J. Emerg. Technol …, 2022 - researchgate.net",Cited by 28
+742,"Accountability in an algorithmic society: relationality, responsibility, and robustness in machine learning","AF Cooper, E Moss, B Laufer… - Proceedings of the 2022 …, 2022 - dl.acm.org",Cited by 99
+743,The artificial intelligence and machine learning in lung cancer immunotherapy,"Q Gao, L Yang, M Lu, R Jin, H Ye, T Ma - Journal of Hematology & …, 2023 - Springer",Cited by 41
+744,Online bearing fault diagnosis using numerical simulation models and machine learning classifications,"H Wang, J Zheng, J Xiang - Reliability Engineering & System Safety, 2023 - Elsevier",Cited by 55
+745,Novel graph-based machine learning technique to secure smart vehicles in intelligent transportation systems,"BB Gupta, A Gaurav, EC Marín… - IEEE transactions on …, 2022 - ieeexplore.ieee.org",Cited by 67
+746,[HTML][HTML] A review of ultrasonic sensing and machine learning methods to monitor industrial processes,"AL Bowler, MP Pound, NJ Watson - Ultrasonics, 2022 - Elsevier",Cited by 35
+747,Ransomware classification and detection with machine learning algorithms,"M Masum, MJH Faruk, H Shahriar… - 2022 IEEE 12th …, 2022 - ieeexplore.ieee.org",Cited by 82
+748,Pima Indians diabetes mellitus classification based on machine learning (ML) algorithms,"V Chang, J Bailey, QA Xu, Z Sun - Neural Computing and Applications, 2023 - Springer",Cited by 189
+749,Clustering superconductors using unsupervised machine learning,"B Roter, N Ninkovic, SV Dordevic - Physica C: Superconductivity and its …, 2022 - Elsevier",Cited by 29
+750,Application of machine learning methods on real bridge monitoring data,"F Wedel, S Marx - Engineering Structures, 2022 - Elsevier",Cited by 34
+751,Raman spectroscopy and machine learning for the classification of breast cancers,"L Zhang, C Li, D Peng, X Yi, S He, F Liu… - … Acta Part A: Molecular …, 2022 - Elsevier",Cited by 100
+752,"The role of artificial intelligence and machine learning in wireless networks security: Principle, practice and challenges","M Waqas, S Tu, Z Halim, SU Rehman, G Abbas… - Artificial Intelligence …, 2022 - Springer",Cited by 95
+753,The role of machine learning to boost the bioenergy and biofuels conversion,"Z Wang, X Peng, A Xia, AA Shah, Y Huang, X Zhu… - Bioresource …, 2022 - Elsevier",Cited by 112
+754,[PDF][PDF] Implementation of Machine Learning Based Google Teachable Machine in Early Childhood Education.,"PY Prasad, D Prasad, DN Malleswari… - … Journal of early …, 2022 - researchgate.net",Cited by 42
+755,Applications of machine learning in metabolomics: Disease modeling and classification,"A Galal, M Talal, A Moustafa - Frontiers in genetics, 2022 - frontiersin.org",Cited by 66
+756,Can book covers help predict bestsellers using machine learning approaches?,"S Lee, J Kim, E Park - Telematics and Informatics, 2023 - Elsevier",Cited by 15
+757,[PDF][PDF] Crime tracking system and people's safety in India using machine learning approaches,"VK Gupta, SK Shukla, RS Rawat - International Journal of …, 2022 - researchgate.net",Cited by 76
+758,[HTML][HTML] Application of machine learning initiatives and intelligent perspectives for CO2 emissions reduction in construction,"L Farahzadi, M Kioumarsi - Journal of Cleaner Production, 2023 - Elsevier",Cited by 42
+759,Automated wheat diseases classification framework using advanced machine learning technique,"H Khan, IU Haq, M Munsif, Mustaqeem, SU Khan… - Agriculture, 2022 - mdpi.com",Cited by 51
+760,Predicting the changes in the WTI crude oil price dynamics using machine learning models,"H Guliyev, E Mustafayev - Resources Policy, 2022 - Elsevier",Cited by 58
+761,Machine learning-aided engineering of hydrolases for PET depolymerization,"H Lu, DJ Diaz, NJ Czarnecki, C Zhu, W Kim, R Shroff… - Nature, 2022 - nature.com",Cited by 688
+762,"Flash drought: Review of concept, prediction and the potential for machine learning, deep learning methods","S Tyagi, X Zhang, D Saraswat, S Sahany… - Earth's …, 2022 - Wiley Online Library",Cited by 33
+763,Machine learning price index forecasts of flat steel products,"B Jin, X Xu - Mineral Economics, 2024 - Springer",Cited by 5
+764,Machine learning techniques applied to construction: A hybrid bibliometric analysis of advances and future directions,"J Garcia, G Villavicencio, F Altimiras, B Crawford… - Automation in …, 2022 - Elsevier",Cited by 28
+765,Earthquake damage and rehabilitation intervention prediction using machine learning,"KC Sajan, A Bhusal, D Gautam, R Rupakhety - Engineering Failure …, 2023 - Elsevier",Cited by 34
+766,Machine learning-based orchestration of containers: A taxonomy and future directions,"Z Zhong, M Xu, MA Rodriguez, C Xu… - ACM Computing Surveys …, 2022 - dl.acm.org",Cited by 120
+767,[HTML][HTML] Supply chain risk management with machine learning technology: A literature review and future research directions,"M Yang, MK Lim, Y Qu, D Ni, Z Xiao - Computers & Industrial Engineering, 2023 - Elsevier",Cited by 61
+768,Machine-learning potentials for crystal defects,"R Freitas, Y Cao - MRS Communications, 2022 - Springer",Cited by 29
+769,Plant disease detection using machine learning approaches,"I Ahmed, PK Yadav - Expert Systems, 2023 - Wiley Online Library",Cited by 58
+770,"Data-driven machine learning and neural network algorithms in the retailing environment: Consumer engagement, experience, and purchase behaviors","T Kliestik, K Zvarikova, G Lăzăroiu - Economics, Management and …, 2022 - ceeol.com",Cited by 125
+771,Machine learning-enabled globally guaranteed evolutionary computation,"B Li, Z Wei, J Wu, S Yu, T Zhang, C Zhu… - Nature Machine …, 2023 - nature.com",Cited by 17
+772,Confusion matrix: Machine learning,"J Liang - POGIL Activity Clearinghouse, 2022 - pac.pogil.org",Cited by 71
+773,Review on alzheimer disease detection methods: Automatic pipelines and machine learning techniques,"A Shukla, R Tiwari, S Tiwari - Sci, 2023 - mdpi.com",Cited by 38
+774,Machine learning approaches to predict drug efficacy and toxicity in oncology,"BA Badwan, G Liaropoulos, E Kyrodimos, D Skaltsas… - Cell reports …, 2023 - cell.com",Cited by 29
+775,Machine learning with data assimilation and uncertainty quantification for dynamical systems: a review,"S Cheng, C Quilodrán-Casas, S Ouala… - IEEE/CAA Journal of …, 2023 - ieeexplore.ieee.org",Cited by 107
+776,"Machine learning in solid heterogeneous catalysis: Recent developments, challenges and perspectives","Y Guan, D Chaffart, G Liu, Z Tan, D Zhang… - Chemical Engineering …, 2022 - Elsevier",Cited by 82
+777,[HTML][HTML] Remote estimates of suspended particulate matter in global lakes using machine learning models,"Z Wen, Q Wang, Y Ma, PA Jacinthe, G Liu, S Li… - International Soil and …, 2024 - Elsevier",Cited by 51
+778,A hybrid machine learning model for intrusion detection in VANET,"H Bangui, M Ge, B Buhnova - Computing, 2022 - Springer",Cited by 87
+779,[HTML][HTML] An in-depth review of machine learning based Android malware detection,"A Muzaffar, HR Hassen, MA Lones, H Zantout - Computers & Security, 2022 - Elsevier",Cited by 55
+780,Artificial Intelligence and Machine Learning in CRM: Leveraging Data for Predictive Analytics,"RT Potla, VK Pottla - Journal of Artificial Intelligence …, 2024 - thesciencebrigade.com",Cited by 8
+781,Using econometric and machine learning models to forecast crude oil prices: Insights from economic history,"Z Xu, M Mohsin, K Ullah, X Ma - Resources Policy, 2023 - Elsevier",Cited by 56
+782,Data privacy and trustworthy machine learning,"M Strobel, R Shokri - IEEE Security & Privacy, 2022 - ieeexplore.ieee.org",Cited by 33
+783,Predicting lattice thermal conductivity via machine learning: a mini review,"Y Luo, M Li, H Yuan, H Liu, Y Fang - NPJ Computational Materials, 2023 - nature.com",Cited by 39
+784,Optimization and machine learning applied to last-mile logistics: A review,"N Giuffrida, J Fajardo-Calderin, AD Masegosa… - Sustainability, 2022 - mdpi.com",Cited by 56
+785,Using supervised machine learning for large‐scale classification in management research: The case for identifying artificial intelligence patents,"M Miric, N Jia, KG Huang - Strategic Management Journal, 2023 - Wiley Online Library",Cited by 69
+786,An intelligent iot enabled health care surveillance using machine learning,"S Ahamed, P Bhatt, SJ Sultanuddin… - … on Advances in …, 2022 - ieeexplore.ieee.org",Cited by 72
+787,"A review of machine learning methods for drought hazard monitoring and forecasting: Current research trends, challenges, and future research directions","FA Prodhan, J Zhang, SS Hasan, TPP Sharma… - … modelling & software, 2022 - Elsevier",Cited by 102
+788,"Review of machine learning for hydrodynamics, transport, and reactions in multiphase flows and reactors","LT Zhu, XZ Chen, B Ouyang, WC Yan… - Industrial & …, 2022 - ACS Publications",Cited by 110
+789,Machine learning for auto-segmentation in radiotherapy planning,"K Harrison, H Pullen, C Welsh, O Oktay, J Alvarez-Valle… - Clinical Oncology, 2022 - Elsevier",Cited by 77
+790,Machine learning technique to prognosis diabetes disease: Random forest classifier approach,"P Palimkar, RN Shaw, A Ghosh - Advanced computing and intelligent …, 2022 - Springer",Cited by 159
+791,Intelligent control of nanoparticle synthesis on microfluidic chips with machine learning,"X Chen, H Lv - NPG Asia Materials, 2022 - nature.com",Cited by 51
+792,Prediction of Alzheimer's disease using hybrid machine learning technique,"MS Kumar, H Azath, AK Velmurugan… - AIP Conference …, 2023 - pubs.aip.org",Cited by 42
+793,[PDF][PDF] NMLA: The Smart Detection of Motor Neuron Disease and Analyze the Health Impacts with Neuro Machine Learning Model,"G Sekar, C Sivakumar, J Logeshwaran - NeuroQuantology, 2022 - researchgate.net",Cited by 130
+794,SNIB: improving spike-based machine learning using nonlinear information bottleneck,"S Yang, B Chen - IEEE Transactions on Systems, Man, and …, 2023 - ieeexplore.ieee.org",Cited by 54
+795,Machine learning: a new prospect in multi-omics data analysis of cancer,"B Arjmand, SK Hamidpour, A Tayanloo-Beik… - Frontiers in …, 2022 - frontiersin.org",Cited by 67
+796,"[HTML][HTML] Computer vision and machine learning for medical image analysis: recent advances, challenges, and way forward","E Elyan, P Vuttipittayamongkol, P Johnston… - Artificial Intelligence …, 2022 - oaepublish.com",Cited by 98
+797,Machine-learning-assisted design of highly tough thermosetting polymers,"Y Hu, W Zhao, L Wang, J Lin, L Du - ACS Applied Materials & …, 2022 - ACS Publications",Cited by 29
+798,Machine learning-based lung and colon cancer detection using deep feature extraction and ensemble learning,"MA Talukder, MM Islam, MA Uddin, A Akhter… - Expert Systems with …, 2022 - Elsevier",Cited by 158
+799,A review on artificial intelligence and machine learning to improve cancer management and drug discovery,"R Kumar, P Saha - International Journal for Research in Applied …, 2022 - ijrasb.com",Cited by 93
+800,A systematic review of the research development on the application of machine learning for concrete,"K Khan, W Ahmad, MN Amin, A Ahmad - Materials, 2022 - mdpi.com",Cited by 21
+801,Hematology and machine learning,"AE Obstfeld - The Journal of Applied Laboratory Medicine, 2023 - academic.oup.com",Cited by 15
+802,On the impact of machine learning randomness on group fairness,"P Ganesh, H Chang, M Strobel, R Shokri - Proceedings of the 2023 ACM …, 2023 - dl.acm.org",Cited by 22
+803,Food quality inspection and grading using efficient image segmentation and machine learning‐based system,"V Hemamalini, S Rajarajeswari… - Journal of Food …, 2022 - Wiley Online Library",Cited by 96
+804,Novel class probability features for optimizing network attack detection with machine learning,"A Raza, K Munir, MS Almutairi, R Sehar - IEEE Access, 2023 - ieeexplore.ieee.org",Cited by 24
+805,Enabling fairness in healthcare through machine learning,"T Grote, G Keeling - Ethics and Information Technology, 2022 - Springer",Cited by 24
+806,[HTML][HTML] Do not rug on me: Leveraging machine learning techniques for automated scam detection,"B Mazorra, V Adan, V Daza - Mathematics, 2022 - mdpi.com",Cited by 45
+807,A hybrid machine learning model for timely prediction of breast cancer,"S Dalal, EM Onyema, P Kumar… - … Journal of Modeling …, 2023 - World Scientific",Cited by 59
+808,[HTML][HTML] Developing a novel tool for assessing the groundwater incorporating water quality index and machine learning approach,"AM Sajib, MTM Diganta, A Rahman… - Groundwater for …, 2023 - Elsevier",Cited by 32
+809,Prediction of Sepsis Mortality in ICU patients using machine learning methods,"J Gao, Y Lu, N Ashrafi, I Domingo, K Alaei… - BMC Medical Informatics …, 2024 - Springer",Cited by 8
+810,Co-evolution of machine learning and digital technologies to improve monitoring of Parkinson's disease motor symptoms,"AS Chandrabhatla, IJ Pomeraniec… - NPJ digital …, 2022 - nature.com",Cited by 65
+811,A novel decision support system for managing predictive maintenance strategies based on machine learning approaches,"S Arena, E Florian, I Zennaro, PF Orrù, F Sgarbossa - Safety science, 2022 - Elsevier",Cited by 116
+812,Legal and ethical challenges for HR in machine learning,"RH Hamilton, HK Davison - Employee Responsibilities and Rights Journal, 2022 - Springer",Cited by 46
+813,A systematic review of machine learning techniques for stance detection and its applications,"N Alturayeif, H Luqman, M Ahmed - Neural Computing and Applications, 2023 - Springer",Cited by 49
+814,An ensemble method of the machine learning to prognosticate the gastric cancer,"H Baradaran Rezaei, A Amjadian, MV Sebt… - Annals of Operations …, 2023 - Springer",Cited by 41
+815,The personal health applications of machine learning techniques in the internet of behaviors,"Z Amiri, A Heidari, M Darbandi, Y Yazdani… - Sustainability, 2023 - mdpi.com",Cited by 44
+816,[PDF][PDF] Evaluation of machine learning methods application in temperature prediction,"B Azari, K Hassan, J Pierce, S Ebrahimi - Environ Eng, 2022 - crpase.procedia.org",Cited by 35
+817,[HTML][HTML] Machine learning techniques for IoT security: Current research and future vision with generative AI and large language models,"F Alwahedi, A Aldhaheri, MA Ferrag, A Battah… - Internet of Things and …, 2024 - Elsevier",Cited by 83
+818,Forecasting credit ratings of decarbonized firms: Comparative assessment of machine learning models,"B Yu, C Li, N Mirza, M Umar - Technological Forecasting and Social …, 2022 - Elsevier",Cited by 109
+819,PhenoScore quantifies phenotypic variation for rare genetic diseases by combining facial analysis with other clinical features using a machine-learning framework,"AJM Dingemans, M Hinne, KMG Truijen, L Goltstein… - Nature Genetics, 2023 - nature.com",Cited by 23
+820,[HTML][HTML] Prediction of cancer disease using machine learning approach,"FJ Shaikh, DS Rao - Materials Today: Proceedings, 2022 - Elsevier",Cited by 69
+821,Overview on intrusion detection systems design exploiting machine learning for networking cybersecurity,"P Dini, A Elhanashi, A Begni, S Saponara, Q Zheng… - Applied Sciences, 2023 - mdpi.com",Cited by 41
+822,The diagnosis of ASD using multiple machine learning techniques,"CJ Kumar, PR Das - International Journal of Developmental …, 2022 - Taylor & Francis",Cited by 36
+823,[HTML][HTML] Prediction of oil and gas pipeline failures through machine learning approaches: A systematic review,"AM Al-Sabaeei, H Alhussian, SJ Abdulkadir… - Energy Reports, 2023 - Elsevier",Cited by 21
+824,Where nanosensors meet machine learning: Prospects and challenges in detecting Disease X,"YX Leong, EX Tan, SX Leong, CS Lin Koh… - ACS …, 2022 - ACS Publications",Cited by 30
+825,Studying up machine learning data: Why talk about bias when we mean power?,"M Miceli, J Posada, T Yang - Proceedings of the ACM on Human …, 2022 - dl.acm.org",Cited by 138
+826,Tight auditing of differentially private machine learning,"M Nasr, J Hayes, T Steinke, B Balle, F Tramèr… - 32nd USENIX Security …, 2023 - usenix.org",Cited by 55
+827,[HTML][HTML] Data mining and machine learning in cancer survival research: an overview and future recommendations,"I Kaur, MN Doja, T Ahmad - Journal of Biomedical Informatics, 2022 - Elsevier",Cited by 38
+828,Modeling energy-efficient building loads using machine-learning algorithms for the design phase,"FE Sapnken, MM Hamed, B Soldo, JG Tamba - Energy and Buildings, 2023 - Elsevier",Cited by 30
+829,An overview of machine learning techniques in constraint solving,"A Popescu, S Polat-Erdeniz, A Felfernig, M Uta… - Journal of Intelligent …, 2022 - Springer",Cited by 38
+830,Machine Learning of Reactive Potentials,"Y Yang, S Zhang, KD Ranasinghe… - Annual Review of …, 2024 - annualreviews.org",Cited by 4
+831,A critical review on the state-of-the-art and future prospects of Machine Learning for Earth Observation Operations,"P Miralles, K Thangavel, AF Scannapieco… - Advances in Space …, 2023 - Elsevier",Cited by 16
+832,Prevalence and early prediction of diabetes using machine learning in North Kashmir: a case study of district bandipora,"SS Bhat, V Selvam, GA Ansari… - Computational …, 2022 - Wiley Online Library",Cited by 70
+833,[HTML][HTML] SmartHealth: An intelligent framework to secure IoMT service applications using machine learning,"S Rani, S Kumar, A Kataria, H Min - ICT Express, 2024 - Elsevier",Cited by 65
+834,Personalized adaptive learning technologies based on machine learning techniques to identify learning styles: A systematic literature review,"SG Essa, T Celik, NE Human-Hendricks - IEEE Access, 2023 - ieeexplore.ieee.org",Cited by 43
+835,Human–machine interaction via dual modes of voice and gesture enabled by triboelectric nanogenerator and machine learning,"H Luo, J Du, P Yang, Y Shi, Z Liu, D Yang… - … Applied Materials & …, 2023 - ACS Publications",Cited by 34
+836,Machine learning algorithms reveal potential miRNAs biomarkers in gastric cancer,"H Azari, E Nazari, R Mohit, A Asadnia, M Maftooh… - Scientific Reports, 2023 - nature.com",Cited by 19
+837,"Predicting students' performance employing educational data mining techniques, machine learning, and learning analytics","A Alam, A Mohanty - International Conference on Communication …, 2022 - Springer",Cited by 116
+838,On machine learning-based techniques for future sustainable and resilient energy systems,"J Wang, P Pinson, S Chatzivasileiadis… - IEEE Transactions …, 2022 - ieeexplore.ieee.org",Cited by 44
+839,Application of machine learning for cardiovascular disease risk prediction,"S Dalal, P Goel, EM Onyema, A Alharbi… - Computational …, 2023 - Wiley Online Library",Cited by 49
+840,Assessment and prediction of index based agricultural drought vulnerability using machine learning algorithms,"AA Kafy, A Bakshi, M Saha, A Al Faisal… - Science of The Total …, 2023 - Elsevier",Cited by 52
+841,Insurance risk prediction using machine learning,"R Sahai, A Al-Ataby, S Assi, M Jayabalan… - … conference on data …, 2022 - Springer",Cited by 37
+842,[HTML][HTML] Utilizing machine learning on freight transportation and logistics applications: A review,"K Tsolaki, T Vafeiadis, A Nizamis, D Ioannidis… - ICT Express, 2023 - Elsevier",Cited by 69
+843,State of art on state estimation: Kalman filter driven by machine learning,"Y Bai, B Yan, C Zhou, T Su, X Jin - Annual Reviews in Control, 2023 - Elsevier",Cited by 44
+844,Interpretable and explainable machine learning: a methods‐centric overview with concrete examples,"R Marcinkevičs, JE Vogt - Wiley Interdisciplinary Reviews: Data …, 2023 - Wiley Online Library",Cited by 55
+845,[HTML][HTML] Regionalizing the sea-level budget with machine learning techniques,"CML Camargo, REM Riva, THJ Hermans… - Ocean …, 2023 - os.copernicus.org",Cited by 19
+846,"Using machine learning models for predicting the water quality index in the La Buong River, Vietnam","DN Khoi, NT Quan, DQ Linh, PTT Nhi, NTD Thuy - Water, 2022 - mdpi.com",Cited by 91
+847,Exploring machine learning in chemistry through the classification of spectra: An undergraduate project,"AG St James, L Hand, T Mills, L Song… - Journal of Chemical …, 2023 - ACS Publications",Cited by 15
+848,[BOOK][B] Machine Learning Q and AI: 30 Essential Questions and Answers on Machine Learning and AI,S Raschka - 2024 - books.google.com,Cited by 30
+849,[HTML][HTML] Analysis of machine learning strategies for prediction of passing undergraduate admission test,"MAA Walid, SMM Ahmed, M Zeyad, SMS Galib… - International Journal of …, 2022 - Elsevier",Cited by 42
+850,Dementia detection from speech using machine learning and deep learning architectures,"MR Kumar, S Vekkot, S Lalitha, D Gupta, VJ Govindraj… - Sensors, 2022 - mdpi.com",Cited by 40
+851,Digital transformation in tourism: bibliometric literature review based on machine learning approach,"P Madzík, L Falát, L Copuš, M Valeri - European Journal of Innovation …, 2023 - emerald.com",Cited by 47
+852,"Transparency, auditability, and explainability of machine learning models in credit scoring","M Bücker, G Szepannek, A Gosiewska… - Journal of the …, 2022 - Taylor & Francis",Cited by 113
+853,An insight into diagnosis of depression using machine learning techniques: a systematic review,"S Bhadra, CJ Kumar - Current medical research and opinion, 2022 - Taylor & Francis",Cited by 42
+854,Forest fire detection system using wireless sensor networks and machine learning,"U Dampage, L Bandaranayake, R Wanasinghe… - Scientific reports, 2022 - nature.com",Cited by 152
+855,A human resources analytics and machine-learning examination of turnover: implications for theory and practice,"D Avrahami, D Pessach, G Singer… - International Journal of …, 2022 - emerald.com",Cited by 47
+856,Machine-learning rationalization and prediction of solid-state synthesis conditions,"H Huo, CJ Bartel, T He, A Trewartha, A Dunn… - Chemistry of …, 2022 - ACS Publications",Cited by 44
+857,[HTML][HTML] Physical interpretation of machine learning-based recognition of defects for the risk management of existing bridge heritage,"A Cardellicchio, S Ruggieri, A Nettis, V Renò… - Engineering Failure …, 2023 - Elsevier",Cited by 60
+858,A data-driven approach for intrusion and anomaly detection using automated machine learning for the Internet of Things,"H Xu, Z Sun, Y Cao, H Bilal - Soft Computing, 2023 - Springer",Cited by 126
+859,Electric vehicle charging system in the smart grid using different machine learning methods,"T Mazhar, RN Asif, MA Malik, MA Nadeem, I Haq… - Sustainability, 2023 - mdpi.com",Cited by 56
+860,Implementation patterns of high performance machine learning algorithms using Apache Mahout,"B Prashanth, DB Krishna, A Balasundaram… - AIP Conference …, 2022 - pubs.aip.org",Cited by 54
+861,[CITATION][C] Concept paper: Innovative approaches to food quality control: AI and machine learning for predictive analysis,"T Abass, EO Itua, T Bature… - World Journal …, 2024 - World Journal of Advanced …",Cited by 22
+862,Towards model generalization for intrusion detection: Unsupervised machine learning techniques,"M Verkerken, L D'hooge, T Wauters, B Volckaert… - Journal of Network and …, 2022 - Springer",Cited by 79
+863,[HTML][HTML] An inception V3 approach for malware classification using machine learning and transfer learning,"M Ahmed, N Afreen, M Ahmed, M Sameer… - International Journal of …, 2023 - Elsevier",Cited by 58
+864,A comparative performance of machine learning algorithm to predict electric vehicles energy consumption: A path towards sustainability,"I Ullah, K Liu, T Yamamoto… - Energy & …, 2022 - journals.sagepub.com",Cited by 102
+865,Comparative analysis of machine learning methods for active flow control,"F Pino, L Schena, J Rabault… - Journal of Fluid …, 2023 - cambridge.org",Cited by 48
+866,Machine learning based automatic vehicle alert system,"E Sudarshan, DA Kumari, YCA Reddy… - AIP Conference …, 2022 - pubs.aip.org",Cited by 40
+867,"Vaccine supply chain management: An intelligent system utilizing blockchain, IoT and machine learning","H Hu, J Xu, M Liu, MK Lim - Journal of business research, 2023 - Elsevier",Cited by 109
+868,Comparison of land use land cover classifiers using different satellite imagery and machine learning techniques,"S Basheer, X Wang, AA Farooque, RA Nawaz, K Liu… - Remote Sensing, 2022 - mdpi.com",Cited by 109
+869,A machine learning approach for energy-efficient intelligent transportation scheduling problem in a real-world dynamic circumstances,"J Mou, K Gao, P Duan, J Li, A Garg… - IEEE transactions on …, 2022 - ieeexplore.ieee.org",Cited by 112
+870,"Fruit quality evaluation using machine learning techniques: review, motivation and future perspectives","B Dhiman, Y Kumar, M Kumar - Multimedia Tools and Applications, 2022 - Springer",Cited by 41
+871,LGBM: a machine learning approach for Ethereum fraud detection,"RM Aziz, MF Baluch, S Patel, AH Ganie - International Journal of …, 2022 - Springer",Cited by 99
+872,"Machine learning for lung cancer diagnosis, treatment, and prognosis","Y Li, X Wu, P Yang, G Jiang… - Genomics, Proteomics and …, 2022 - academic.oup.com",Cited by 72
+873,"Statistical, machine learning and deep learning forecasting methods: Comparisons and ways forward","S Makridakis, E Spiliotis… - Journal of the …, 2023 - Taylor & Francis",Cited by 58
+874,Implementation of machine learning classification techniques for intrusion detection system,"P William, VNR Inukollu, V Ramasamy… - 2023 4th …, 2023 - ieeexplore.ieee.org",Cited by 28
+875,Option return predictability with machine learning and big data,"TG Bali, H Beckmeyer, M Moerke… - The Review of Financial …, 2023 - academic.oup.com",Cited by 101
+876,"Applications of machine learning in friction stir welding: Prediction of joint properties, real-time control and tool failure diagnosis","AH Elsheikh - Engineering Applications of Artificial Intelligence, 2023 - Elsevier",Cited by 116
+877,[HTML][HTML] Customer churning analysis using machine learning algorithms,"B Prabadevi, R Shalini, BR Kavitha - International Journal of Intelligent …, 2023 - Elsevier",Cited by 35
+878,Towards understanding fairness and its composition in ensemble machine learning,"U Gohar, S Biswas, H Rajan - 2023 IEEE/ACM 45th …, 2023 - ieeexplore.ieee.org",Cited by 24
+879,Generalizability of machine learning models: quantitative evaluation of three methodological pitfalls,"F Maleki, K Ovens, R Gupta, C Reinhold… - Radiology: Artificial …, 2022 - pubs.rsna.org",Cited by 45
+880,Predicting financial crises with machine learning methods,"L Liu, C Chen, B Wang - Journal of Forecasting, 2022 - Wiley Online Library",Cited by 31
+881,Implementation of The Future of Drug Discovery: QuantumBased Machine Learning Simulation (QMLS),"Y Zhou, YK Wong, YS Liang, H Qiu, YX Wu… - arXiv preprint arXiv …, 2023 - arxiv.org",Cited by 13
+882,[HTML][HTML] How can machine learning be used in stress management: A systematic literature review of applications in workplaces and education,"S Mittal, S Mahendra, V Sanap, P Churi - International Journal of …, 2022 - Elsevier",Cited by 50
+883,[HTML][HTML] Comparative study of machine learning methods and GR2M model for monthly runoff prediction,"P Ditthakit, S Pinthong, N Salaeh, J Weekaew… - Ain Shams Engineering …, 2023 - Elsevier",Cited by 25
+884,The worst of both worlds: A comparative analysis of errors in learning from data in psychology and machine learning,"J Hullman, S Kapoor, P Nanayakkara… - Proceedings of the …, 2022 - dl.acm.org",Cited by 43
+885,Predictive modelling and analytics of students' grades using machine learning algorithms,"YT Badal, RK Sungkur - Education and information technologies, 2023 - Springer",Cited by 35
+886,Educational data mining: prediction of students' academic performance using machine learning algorithms,"M Yağcı - Smart Learning Environments, 2022 - Springer",Cited by 353
+887,Predicting chronic kidney disease using machine learning algorithms,"A Farjana, FT Liza, PP Pandit, MC Das… - 2023 IEEE 13th …, 2023 - ieeexplore.ieee.org",Cited by 43
+888,Performance comparison of deep learning and machine learning methods in determining wetland water areas using EuroSAT dataset,"MA Günen - Environmental Science and Pollution Research, 2022 - Springer",Cited by 45
+889,SuperPred 3.0: drug classification and target prediction—a machine learning approach,"K Gallo, A Goede, R Preissner… - Nucleic Acids …, 2022 - academic.oup.com",Cited by 88
+890,Machine-learning exploration of polymer compatibility,"Z Liang, Z Li, S Zhou, Y Sun, J Yuan… - Cell Reports Physical …, 2022 - cell.com",Cited by 22
+891,ProcessGAN: Supporting the creation of business process improvement ideas through generative machine learning,"C van Dun, L Moder, W Kratsch, M Röglinger - Decision Support Systems, 2023 - Elsevier",Cited by 48
+892,Application of innovative machine learning techniques for long-term rainfall prediction,"S Markuna, P Kumar, R Ali, DK Vishwkarma… - Pure and Applied …, 2023 - Springer",Cited by 38
+893,Based on intelligent advertising recommendation and abnormal advertising monitoring system in the field of machine learning,"B Liu - International Journal of Computer Science and …, 2023 - wepub.org",Cited by 47
+894,Blindfl: Vertical federated machine learning without peeking into your data,"F Fu, H Xue, Y Cheng, Y Tao, B Cui - Proceedings of the 2022 …, 2022 - dl.acm.org",Cited by 51
+895,Artificial intelligence and machine learning applications in biopharmaceutical manufacturing,"AS Rathore, S Nikita, G Thakur, S Mishra - Trends in Biotechnology, 2023 - cell.com",Cited by 50
+896,Machine Learning: Supervised Algorithms to Determine the Defect in High‐Precision Foundry Operation,"BramahHazela, J Hymavathi, TR Kumar… - Journal of …, 2022 - Wiley Online Library",Cited by 37
+897,Application of machine learning-based k-means clustering for financial fraud detection,"Z Huang, H Zheng, C Li, C Che - Academic Journal of Science and …, 2024 - drpress.org",Cited by 64
+898,"A survey on intersectional fairness in machine learning: Notions, mitigation, and challenges","U Gohar, L Cheng - arXiv preprint arXiv:2305.06969, 2023 - arxiv.org",Cited by 28
+899,[HTML][HTML] Feedback on a shared big dataset for intelligent TBM Part I: Feature extraction and machine learning methods,"JB Li, ZY Chen, X Li, LJ Jing, YP Zhang, HH Xiao… - Underground …, 2023 - Elsevier",Cited by 33
+900,High-dimensional role of AI and machine learning in cancer research,"E Capobianco - British journal of cancer, 2022 - nature.com",Cited by 39
+901,Machine‐learning modeling for ultra‐stable high‐efficiency perovskite solar cells,"Y Hu, X Hu, L Zhang, T Zheng, J You… - Advanced Energy …, 2022 - Wiley Online Library",Cited by 39
+902,Machine learning methods applied to triage in emergency services: A systematic review,"R Sánchez-Salmerón, JL Gómez-Urquiza… - International Emergency …, 2022 - Elsevier",Cited by 68
+903,"Predictive chemistry: machine learning for reaction deployment, reaction development, and reaction discovery","Z Tu, T Stuyver, CW Coley - Chemical science, 2023 - pubs.rsc.org",Cited by 63
+904,[HTML][HTML] How does the model make predictions? A systematic literature review on the explainability power of machine learning in healthcare,"J Allgaier, L Mulansky, RL Draelos, R Pryss - Artificial Intelligence in …, 2023 - Elsevier",Cited by 45
+905,[HTML][HTML] Machine learning-based diagnosis of breast cancer utilizing feature optimization technique,"KMM Uddin, N Biswas, ST Rikta, SK Dey - Computer Methods and …, 2023 - Elsevier",Cited by 45
+906,A survey on multimodal bidirectional machine learning translation of image and natural language processing,"W Nam, B Jang - Expert Systems with Applications, 2024 - Elsevier",Cited by 13
+907,Cardiovascular complications in a diabetes prediction model using machine learning: a systematic review,"OT Kee, H Harun, N Mustafa, NA Abdul Murad… - Cardiovascular …, 2023 - Springer",Cited by 38
+908,Machine learning-assisted low-dimensional electrocatalysts design for hydrogen evolution reaction,"J Li, N Wu, J Zhang, HH Wu, K Pan, Y Wang, G Liu… - Nano-Micro Letters, 2023 - Springer",Cited by 36
+909,Supervised machine learning models for liver disease risk prediction,"E Dritsas, M Trigka - Computers, 2023 - mdpi.com",Cited by 52
+910,Spam detection using bidirectional transformers and machine learning classifier algorithms,"Y Guo, Z Mustafaoglu… - journal of Computational …, 2023 - ojs.bonviewpress.com",Cited by 155
+911,[HTML][HTML] Comparison of machine learning methods for photovoltaic power forecasting based on numerical weather prediction,"D Markovics, MJ Mayer - Renewable and Sustainable Energy Reviews, 2022 - Elsevier",Cited by 216
+912,Emerging trends in machine learning to predict crop yield and study its influential factors: A survey,"N Bali, A Singla - Archives of computational methods in engineering, 2022 - Springer",Cited by 107
+913,Evaluation of geopolymer concrete at high temperatures: An experimental study using machine learning,"M Rahmati, V Toufigh - Journal of Cleaner Production, 2022 - Elsevier",Cited by 54
+914,[HTML][HTML] Comparative analysis of breast cancer detection using machine learning and biosensors,"Y Amethiya, P Pipariya, S Patel, M Shah - Intelligent Medicine, 2022 - Elsevier",Cited by 87
+915,Evaluating compressive strength of concrete made with recycled concrete aggregates using machine learning approach,"VQ Tran, VQ Dang, LS Ho - Construction and Building Materials, 2022 - Elsevier",Cited by 195
+916,A concise review on recent developments of machine learning for the prediction of vibrational spectra,"R Han, R Ketkaew, S Luber - The Journal of Physical Chemistry A, 2022 - ACS Publications",Cited by 37
+917,Impact of feature scaling on machine learning models for the diagnosis of diabetes,"DU Ozsahin, MT Mustapha, AS Mubarak… - … in Everything (AIE), 2022 - ieeexplore.ieee.org",Cited by 58
+918,"New era of artificial intelligence and machine learning-based detection, diagnosis, and therapeutics in Parkinson's disease","R Gupta, S Kumari, A Senapati, RK Ambasta… - Ageing research …, 2023 - Elsevier",Cited by 52
+919,"Deep learning and machine learning in psychiatry: a survey of current progress in depression detection, diagnosis and treatment","M Squires, X Tao, S Elangovan, R Gururajan, X Zhou… - Brain Informatics, 2023 - Springer",Cited by 38
+920,HealthCloud: A system for monitoring health status of heart patients using machine learning and cloud computing,"F Desai, D Chowdhury, R Kaur, M Peeters, RC Arya… - Internet of Things, 2022 - Elsevier",Cited by 77
+921,Enhanced membership inference attacks against machine learning models,"J Ye, A Maddi, SK Murakonda… - Proceedings of the …, 2022 - dl.acm.org",Cited by 217
+922,Estimating the density of deep eutectic solvents applying supervised machine learning techniques,"M Abdollahzadeh, M Khosravi… - Scientific Reports, 2022 - nature.com",Cited by 55
+923,Web application based Diabetes prediction using Machine Learning,"GR Kumar, RV Reddy, M Jayarathna… - … on Advances in …, 2023 - ieeexplore.ieee.org",Cited by 33
+924,Fraudulent financial transactions detection using machine learning,"MMM Megdad, SS Abu-Naser, BS Abu-Nasser - 2022 - philpapers.org",Cited by 50
+925,Adversarial machine learning for network intrusion detection: A comparative study,"H Jmila, MI Khedher - Computer Networks, 2022 - Elsevier",Cited by 56
+926,[HTML][HTML] Enhancing construction safety: Machine learning-based classification of injury types,"M Alkaissy, M Arashpour, EM Golafshani, MR Hosseini… - Safety science, 2023 - Elsevier",Cited by 38
+927,[HTML][HTML] Interpretable Ensemble-Machine-Learning models for predicting creep behavior of concrete,"M Liang, Z Chang, Z Wan, Y Gan, E Schlangen… - Cement and Concrete …, 2022 - Elsevier",Cited by 176
+928,Testing and analysis of predictive capabilities of machine learning algorithms,"G Khekare, LK Bramhane, C Dhule, R Agrawal… - … and machine learning …, 2022 - Springer",Cited by 19
+929,A systematic review of localization in WSN: Machine learning and optimization‐based approaches,"P Yadav, SC Sharma - International journal of communication …, 2023 - Wiley Online Library",Cited by 28
+930,Amelioration of Alzheimer's disease pathology by mitophagy inducers identified via machine learning and a cross-species workflow,"C Xie, XX Zhuang, Z Niu, R Ai, S Lautrup… - Nature Biomedical …, 2022 - nature.com",Cited by 168
+931,Machine Learning Approaches for Analysis in Smart Healthcare Informatics,"N Jiwani, K Gupta, P Whig - Machine Learning and Artificial …, 2023 - api.taylorfrancis.com",Cited by 31
+932,Intelligent intrusion detection system for Apache web server empowered with machine learning approaches,"MU Ullah, A Hassan, M Asif, MS Farooq… - International Journal of …, 2022 - ijcis.com",Cited by 91
+933,Big data and machine learning driven bioprocessing–recent trends and critical analysis,"CT Yang, E Kristiani, YK Leong, JS Chang - Bioresource technology, 2023 - Elsevier",Cited by 34
+934,[HTML][HTML] Wearable sensors and machine learning in post-stroke rehabilitation assessment: A systematic review,"I Boukhennoufa, X Zhai, V Utti, J Jackson… - … Signal Processing and …, 2022 - Elsevier",Cited by 104
+935,Heart disease prediction using machine learning techniques: a quantitative review,"L Riyaz, MA Butt, M Zaman, O Ayob - International Conference on …, 2022 - Springer",Cited by 65
+936,Deep dive into machine learning density functional theory for materials science and chemistry,"L Fiedler, K Shah, M Bussmann, A Cangi - Physical Review Materials, 2022 - APS",Cited by 65
+937,Data banzhaf: A robust data valuation framework for machine learning,"JT Wang, R Jia - International Conference on Artificial …, 2023 - proceedings.mlr.press",Cited by 65
+938,"Hemodynamic modeling, medical imaging, and machine learning and their applications to cardiovascular interventions","M Kadem, L Garber, M Abdelkhalek… - IEEE Reviews in …, 2022 - ieeexplore.ieee.org",Cited by 37
+939,Explainable AI for machine fault diagnosis: understanding features' contribution in machine learning models for industrial condition monitoring,"E Brusa, L Cibrario, C Delprete, LG Di Maggio - Applied Sciences, 2023 - mdpi.com",Cited by 42
+940,GPR monitoring for road transport infrastructure: A systematic review and machine learning insights,"M Rasol, JC Pais, V Pérez-Gracia, M Solla… - … and Building Materials, 2022 - Elsevier",Cited by 101
+941,Problem-independent machine learning (PIML)-based topology optimization—A universal approach,"M Huang, Z Du, C Liu, Y Zheng, T Cui, Y Mei… - Extreme Mechanics …, 2022 - Elsevier",Cited by 31
+942,Chronic kidney disease prediction using machine learning techniques,"DA Debal, TM Sitote - Journal of Big Data, 2022 - Springer",Cited by 100
+943,Adversarial machine learning in wireless communications using RF data: A review,"D Adesina, CC Hsieh, YE Sagduyu… - … Surveys & Tutorials, 2022 - ieeexplore.ieee.org",Cited by 114
+944,Machine learning for emergency management: A survey and future outlook,"C Kyrkou, P Kolios, T Theocharides… - Proceedings of the …, 2022 - ieeexplore.ieee.org",Cited by 18
+945,Machine learning prediction models to evaluate the strength of recycled aggregate concrete,"X Yuan, Y Tian, W Ahmad, A Ahmad, KI Usanova… - Materials, 2022 - mdpi.com",Cited by 72
+946,Machine learning guided synthesis of flash graphene,"JL Beckham, KM Wyss, Y Xie, EA McHugh… - Advanced …, 2022 - Wiley Online Library",Cited by 67
+947,Propension to customer churn in a financial institution: A machine learning approach,"RA de Lima Lemos, TC Silva, BM Tabak - Neural Computing and …, 2022 - Springer",Cited by 66
+948,Addressing the challenges and barriers to the integration of machine learning into clinical practice: An innovative method to hybrid human–machine intelligence,"C Ed-Driouch, F Mars, PA Gourraud, C Dumas - Sensors, 2022 - mdpi.com",Cited by 26
+949,Machine learning methods for modelling the gasification and pyrolysis of biomass and waste,"S Ascher, I Watson, S You - Renewable and Sustainable Energy Reviews, 2022 - Elsevier",Cited by 154
+950,"Machine learning for design, phase transformation and mechanical properties of alloys","JF Durodola - Progress in Materials Science, 2022 - Elsevier",Cited by 63
+951,Voting Classification‐Based Diabetes Mellitus Prediction Using Hypertuned Machine‐Learning Techniques,"Z Mushtaq, MF Ramzan, S Ali, S Baseer… - Mobile Information …, 2022 - Wiley Online Library",Cited by 60
+952,Flood detection in urban areas using satellite imagery and machine learning,"AH Tanim, CB McRae, H Tavakol-Davani, E Goharian - Water, 2022 - mdpi.com",Cited by 69
+953,Data compression for quantum machine learning,"R Dilip, YJ Liu, A Smith, F Pollmann - Physical Review Research, 2022 - APS",Cited by 43
+954,A machine learning-based analysis for predicting fragility curve parameters of buildings,"H Dabiri, A Faramarzi, A Dall'Asta, E Tondi… - Journal of Building …, 2022 - Elsevier",Cited by 41
+955,"Spice, a dataset of drug-like molecules and peptides for training machine learning potentials","P Eastman, PK Behara, DL Dotson, R Galvelis, JE Herr… - Scientific Data, 2023 - nature.com",Cited by 77
+956,[HTML][HTML] A review of machine learning techniques for identifying weeds in corn,"A Venkataraju, D Arumugam, C Stepan, R Kiran… - Smart Agricultural …, 2023 - Elsevier",Cited by 29
+957,A review of the gumbel-max trick and its extensions for discrete stochasticity in machine learning,"IAM Huijben, W Kool, MB Paulus… - … analysis and machine …, 2022 - ieeexplore.ieee.org",Cited by 91
+958,Phishing URL detection using machine learning methods,"SKH Ahammad, SD Kale, GD Upadhye… - … in Engineering Software, 2022 - Elsevier",Cited by 56
+959,Biochar production and its environmental applications: recent developments and machine learning insights,"KV Supraja, H Kachroo, G Viswanathan… - Bioresource …, 2023 - Elsevier",Cited by 17
+960,Easy and fast prediction of green solvents for small molecule donor-based organic solar cells through machine learning,"A Mahmood, Y Sandali, JL Wang - Physical Chemistry Chemical …, 2023 - pubs.rsc.org",Cited by 73
+961,Seismic damage prediction of RC buildings using machine learning,"S Bhatta, J Dang - Earthquake Engineering & Structural …, 2023 - Wiley Online Library",Cited by 28
+962,[BOOK][B] Advanced machine learning algorithms for complex financial applications,"M Irfan, M Elhoseny, S Kassim, N Metawa - 2023 - books.google.com",Cited by 40
+963,Machine learning algorithms for defect detection in metal laser-based additive manufacturing: A review,"Y Fu, ARJ Downey, L Yuan, T Zhang, A Pratt… - Journal of Manufacturing …, 2022 - Elsevier",Cited by 164
+964,[HTML][HTML] Optimizing durability assessment: Machine learning models for depth of wear of environmentally-friendly concrete,"M Khan, AU Khan, M Houda, C El Hachem… - Results in …, 2023 - Elsevier",Cited by 25
+965,Automatic design of machine learning via evolutionary computation: A survey,"N Li, L Ma, T Xing, G Yu, C Wang, Y Wen, S Cheng… - Applied Soft …, 2023 - Elsevier",Cited by 24
+966,Privacy-preserving machine learning with fully homomorphic encryption for deep neural network,"JW Lee, HC Kang, Y Lee, W Choi, J Eom… - iEEE …, 2022 - ieeexplore.ieee.org",Cited by 266
+967,[HTML][HTML] Role of machine learning in attaining environmental sustainability,"P Asha, K Mannepalli, R Khilar, N Subbulakshmi… - Energy Reports, 2022 - Elsevier",Cited by 21
+968,Machine learning for understanding and predicting injuries in football,"A Majumdar, R Bakirov, D Hodges, S Scott… - Sports Medicine-Open, 2022 - Springer",Cited by 43
+969,Quantum machine learning for support vector machine classification,"SS Kavitha, N Kaulgud - Evolutionary Intelligence, 2024 - Springer",Cited by 29
+970,[PDF][PDF] A systematic literature review of deep and machine learning algorithms in cardiovascular diseases diagnosis,"ZK Alkayyali, SAB Idris, SS Abu-Naser - Journal of Theoretical and Applied …, 2023 - jatit.org",Cited by 45
+971,Predicting infectious disease for biopreparedness and response: A systematic review of machine learning and deep learning approaches,"R Keshavamurthy, S Dixon, KT Pazdernik, LE Charles - One Health, 2022 - Elsevier",Cited by 41
+972,Simple nearest-neighbour analysis meets the accuracy of compound potency predictions using complex machine learning models,"T Janela, J Bajorath - Nature Machine Intelligence, 2022 - nature.com",Cited by 33
+973,Predictive analytics and machine learning for real-time supply chain risk mitigation and agility,"A Aljohani - Sustainability, 2023 - mdpi.com",Cited by 79
+974,A machine learning approach for predicting hidden links in supply chain with graph neural networks,"EE Kosasih, A Brintrup - International Journal of Production …, 2022 - Taylor & Francis",Cited by 124
+975,[CITATION][C] Development of a software and hardware complex for primary diagnostics based on deep machine learning,"R Yaxshiboyev - Central asian journal of education and computer …, 2022 - cajecs.com",Cited by 23
+976,Advancing rare-earth separation by machine learning,"T Liu, KR Johnson, S Jansone-Popova, D Jiang - JACS Au, 2022 - ACS Publications",Cited by 25
+977,Machine Learning Models for Understanding Blood-Brain Barrier Integrity and Transport Mechanisms,"BY Kasula - International Journal of Machine Learning for …, 2023 - ijsdcs.com",Cited by 15
+978,Analytics and machine learning in vehicle routing research,"R Bai, X Chen, ZL Chen, T Cui, S Gong… - … Journal of Production …, 2023 - Taylor & Francis",Cited by 105
+979,Healthcare predictive analytics using machine learning and deep learning techniques: a survey,"M Badawy, N Ramadan, HA Hefny - Journal of Electrical Systems and …, 2023 - Springer",Cited by 49
+980,Machine learning for accelerating the design process of double-double composite structures,"Z Zhang, Z Zhang, F Di Caprio, GX Gu - Composite Structures, 2022 - Elsevier",Cited by 45
+981,Machine learning-based seismic response and performance assessment of reinforced concrete buildings,"F Kazemi, N Asgarkhani, R Jankowski - Archives of Civil and Mechanical …, 2023 - Springer",Cited by 81
+982,A survey of intrusion detection from the perspective of intrusion datasets and machine learning techniques,"G Singh, N Khare - International Journal of Computers and …, 2022 - Taylor & Francis",Cited by 93
+983,A hybrid machine learning algorithm for heart and liver disease prediction using modified particle swarm optimization with support vector machine,"MP Behera, A Sarangi, D Mishra, SK Sarangi - Procedia Computer Science, 2023 - Elsevier",Cited by 43
+984,"Prospective validation of machine learning algorithms for absorption, distribution, metabolism, and excretion prediction: An industrial perspective","C Fang, Y Wang, R Grater, S Kapadnis… - Journal of Chemical …, 2023 - ACS Publications",Cited by 32
+985,Prediction heavy metals accumulation risk in rice using machine learning and mapping pollution risk,"B Zhao, W Zhu, S Hao, M Hua, Q Liao, Y Jing… - Journal of Hazardous …, 2023 - Elsevier",Cited by 46
+986,The coming of age of interpretable and explainable machine learning models,"PJG Lisboa, S Saralajew, A Vellido… - Neurocomputing, 2023 - Elsevier",Cited by 85
+987,"Prediction and optimization model of sustainable concrete properties using machine learning, deep learning and swarm intelligence: A review","S Wang, P Xia, K Chen, F Gong, H Wang… - Journal of Building …, 2023 - Elsevier",Cited by 35
+988,Non-parametric empirical machine learning for short-term and long-term structural health monitoring,"A Entezami, H Shariatmadar… - Structural Health …, 2022 - journals.sagepub.com",Cited by 49
+989,Analysis of bitcoin price prediction using machine learning,"J Chen - Journal of Risk and Financial Management, 2023 - mdpi.com",Cited by 83
+990,Investigating the performance of machine learning models combined with different feature selection methods to estimate the energy consumption of buildings,"X Liu, H Tang, Y Ding, D Yan - Energy and Buildings, 2022 - Elsevier",Cited by 53
+991,A systematic review on machine learning and deep learning techniques in cancer survival prediction,"P Deepa, C Gunavathi - Progress in Biophysics and Molecular Biology, 2022 - Elsevier",Cited by 34
+992,A Detailed View on industrial Safety and Health Analytics using Machine Learning Hybrid Ensemble Techniques,"K Rathor, S Lenka, KA Pandya… - … Conference on Edge …, 2022 - ieeexplore.ieee.org",Cited by 101
+993,Building a conversational chatbot using machine learning: Towards a more intelligent healthcare application,"RK Solanki, AS Rajawat, AR Gadekar… - Handbook of research …, 2023 - igi-global.com",Cited by 45
+994,Técnicas y aplicaciones del Machine Learning e Inteligencia Artificial en educación: una revisión sistemática,"W Forero Corba… - … de educación a …, 2024 - redined.educacion.gob.es",Cited by 38
+995,Penggunaan Python Sebagai Bahasa Pemrograman untuk Machine Learning dan Deep Learning,"MRS Alfarizi, MZ Al-farish, M Taufiqurrahman… - Karimah …, 2023 - ojs.unida.ac.id",Cited by 40
+996,Perbandingan Algoritma Machine Learning untuk Analisis Sentimen Berbasis Aspek pada Review Female Daily,"MH Wicaksono… - eProceedings …, 2023 - … .telkomuniversity.ac.id",Cited by 222
